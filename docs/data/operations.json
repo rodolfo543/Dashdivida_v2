@@ -1,6 +1,6 @@
 {
-  "generated_at": "04/05/2026 16:56:00",
-  "generated_at_iso": "2026-05-04T16:56:00",
+  "generated_at": "05/05/2026 10:26:32",
+  "generated_at_iso": "2026-05-05T10:26:32",
   "operations": [
     {
       "id": "geral",
@@ -9,6 +9,27 @@
       "indexer": "Consolidado",
       "badge": "Carteira",
       "variant_options": []
+    },
+    {
+      "id": "axs01",
+      "label": "AXS 01",
+      "category": "Debenture",
+      "indexer": "IPCA + 9,35% / 10,97%",
+      "badge": "DEB",
+      "variant_options": [
+        {
+          "id": "total",
+          "label": "Total"
+        },
+        {
+          "id": "primeira",
+          "label": "1a Serie"
+        },
+        {
+          "id": "segunda",
+          "label": "2a Serie"
+        }
+      ]
     },
     {
       "id": "axs02",
@@ -53,7 +74,20 @@
       "category": "Debenture",
       "indexer": "IPCA + 9,47% / 10,97%",
       "badge": "DEB",
-      "variant_options": []
+      "variant_options": [
+        {
+          "id": "total",
+          "label": "Total"
+        },
+        {
+          "id": "primeira",
+          "label": "1a Serie"
+        },
+        {
+          "id": "segunda",
+          "label": "2a Serie"
+        }
+      ]
     },
     {
       "id": "axs06",
@@ -92,6 +126,14 @@
       "label": "AXS 10",
       "category": "Debenture",
       "indexer": "CDI + 6,50%",
+      "badge": "DEB",
+      "variant_options": []
+    },
+    {
+      "id": "axsgoias",
+      "label": "AXS Goiás",
+      "category": "Debenture",
+      "indexer": "IPCA + 10,40%",
       "badge": "DEB",
       "variant_options": []
     },

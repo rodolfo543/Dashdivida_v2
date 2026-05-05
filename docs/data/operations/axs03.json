@@ -125,7 +125,7 @@
       "pu_amort": 0.45144643,
       "pu_total": 5.44935273,
       "parsed_date": "15/12/2022",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 1,
         "Tipo": "Pagamento",
@@ -174,7 +174,7 @@
       "pu_amort": 0.4530932,
       "pu_total": 9.66842995,
       "parsed_date": "16/01/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 2,
         "Tipo": "Pagamento",
@@ -223,7 +223,7 @@
       "pu_amort": 0.45569707,
       "pu_total": 9.72399336,
       "parsed_date": "15/02/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 3,
         "Tipo": "Pagamento",
@@ -272,7 +272,7 @@
       "pu_amort": 0.45892349,
       "pu_total": 8.07251421,
       "parsed_date": "15/03/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 4,
         "Tipo": "Pagamento",
@@ -321,7 +321,7 @@
       "pu_amort": 0.4625697,
       "pu_total": 9.8497859,
       "parsed_date": "17/04/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 5,
         "Tipo": "Pagamento",
@@ -370,7 +370,7 @@
       "pu_amort": 0.46564399,
       "pu_total": 8.19072854,
       "parsed_date": "15/05/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 6,
         "Tipo": "Pagamento",
@@ -419,7 +419,7 @@
       "pu_amort": 0.46827321,
       "pu_total": 9.97123429,
       "parsed_date": "15/06/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 7,
         "Tipo": "Pagamento",
@@ -468,7 +468,7 @@
       "pu_amort": 0.46913821,
       "pu_total": 9.98965328,
       "parsed_date": "17/07/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 8,
         "Tipo": "Pagamento",
@@ -517,7 +517,7 @@
       "pu_amort": 0.46959056,
       "pu_total": 9.54411024,
       "parsed_date": "15/08/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 9,
         "Tipo": "Pagamento",
@@ -566,7 +566,7 @@
       "pu_amort": 0.46994141,
       "pu_total": 9.98565733,
       "parsed_date": "15/09/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 10,
         "Tipo": "Pagamento",
@@ -615,7 +615,7 @@
       "pu_amort": 0.47080964,
       "pu_total": 9.13384878,
       "parsed_date": "16/10/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 11,
         "Tipo": "Pagamento",
@@ -664,7 +664,7 @@
       "pu_amort": 0.47182063,
       "pu_total": 9.58943491,
       "parsed_date": "16/11/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 12,
         "Tipo": "Pagamento",
@@ -713,7 +713,7 @@
       "pu_amort": 0.47273911,
       "pu_total": 9.17128103,
       "parsed_date": "15/12/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 13,
         "Tipo": "Pagamento",
@@ -762,7 +762,7 @@
       "pu_amort": 3.16388373,
       "pu_total": 11.44517747,
       "parsed_date": "15/01/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 14,
         "Tipo": "Pagamento",
@@ -811,7 +811,7 @@
       "pu_amort": 3.18145906,
       "pu_total": 12.36175415,
       "parsed_date": "15/02/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 15,
         "Tipo": "Pagamento",
@@ -860,7 +860,7 @@
       "pu_amort": 3.19462173,
       "pu_total": 12.38557162,
       "parsed_date": "15/03/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 16,
         "Tipo": "Pagamento",
@@ -909,7 +909,7 @@
       "pu_amort": 3.22087554,
       "pu_total": 12.01818779,
       "parsed_date": "15/04/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 17,
         "Tipo": "Pagamento",
@@ -958,7 +958,7 @@
       "pu_amort": 3.22676649,
       "pu_total": 12.45246051,
       "parsed_date": "15/05/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 18,
         "Tipo": "Pagamento",
@@ -1007,7 +1007,7 @@
       "pu_amort": 3.23864467,
       "pu_total": 12.91274797,
       "parsed_date": "17/06/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 19,
         "Tipo": "Pagamento",
@@ -1056,7 +1056,7 @@
       "pu_amort": 3.25310193,
       "pu_total": 12.05747569,
       "parsed_date": "15/07/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 20,
         "Tipo": "Pagamento",
@@ -1105,7 +1105,7 @@
       "pu_amort": 3.26049294,
       "pu_total": 13.38190485,
       "parsed_date": "15/08/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 21,
         "Tipo": "Pagamento",
@@ -1154,7 +1154,7 @@
       "pu_amort": 3.27231841,
       "pu_total": 12.95849205,
       "parsed_date": "16/09/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 22,
         "Tipo": "Pagamento",
@@ -1203,7 +1203,7 @@
       "pu_amort": 3.27209798,
       "pu_total": 12.48565291,
       "parsed_date": "15/10/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 23,
         "Tipo": "Pagamento",
@@ -1252,7 +1252,7 @@
       "pu_amort": 3.28686115,
       "pu_total": 13.39504497,
       "parsed_date": "18/11/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 24,
         "Tipo": "Pagamento",
@@ -1301,7 +1301,7 @@
       "pu_amort": 3.30450886,
       "pu_total": 11.66843257,
       "parsed_date": "16/12/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 25,
         "Tipo": "Pagamento",
@@ -1350,7 +1350,7 @@
       "pu_amort": 3.31763816,
       "pu_total": 12.13034474,
       "parsed_date": "15/01/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 26,
         "Tipo": "Pagamento",
@@ -1399,7 +1399,7 @@
       "pu_amort": 3.33506543,
       "pu_total": 13.4967985,
       "parsed_date": "17/02/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 27,
         "Tipo": "Pagamento",
@@ -1448,7 +1448,7 @@
       "pu_amort": 3.34051036,
       "pu_total": 11.2726471,
       "parsed_date": "17/03/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 28,
         "Tipo": "Pagamento",
@@ -1497,7 +1497,7 @@
       "pu_amort": 3.38431584,
       "pu_total": 12.73598459,
       "parsed_date": "15/04/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 29,
         "Tipo": "Pagamento",
@@ -1546,7 +1546,7 @@
       "pu_amort": 3.40324352,
       "pu_total": 11.88124904,
       "parsed_date": "15/05/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 30,
         "Tipo": "Pagamento",
@@ -1595,7 +1595,7 @@
       "pu_amort": 3.41778603,
       "pu_total": 13.25149567,
       "parsed_date": "16/06/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 31,
         "Tipo": "Pagamento",
@@ -1644,7 +1644,7 @@
       "pu_amort": 3.42651052,
       "pu_total": 12.35727477,
       "parsed_date": "15/07/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 32,
         "Tipo": "Pagamento",
@@ -1693,7 +1693,7 @@
       "pu_amort": 3.43450379,
       "pu_total": 13.70306714,
       "parsed_date": "15/08/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 33,
         "Tipo": "Pagamento",
@@ -1742,7 +1742,7 @@
       "pu_amort": 3.44313225,
       "pu_total": 12.80917471,
       "parsed_date": "15/09/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 34,
         "Tipo": "Pagamento",
@@ -1791,7 +1791,7 @@
       "pu_amort": 3.44004321,
       "pu_total": 13.21184256,
       "parsed_date": "15/10/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 35,
         "Tipo": "Pagamento",
@@ -1840,7 +1840,7 @@
       "pu_amort": 3.45610954,
       "pu_total": 13.69015891,
       "parsed_date": "17/11/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 36,
         "Tipo": "Pagamento",
@@ -1889,7 +1889,7 @@
       "pu_amort": 3.45977364,
       "pu_total": 11.88725201,
       "parsed_date": "15/12/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 37,
         "Tipo": "Pagamento",
@@ -1938,7 +1938,7 @@
       "pu_amort": 3.4654148,
       "pu_total": 12.77036141,
       "parsed_date": "15/01/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 38,
         "Tipo": "Pagamento",
@@ -1987,7 +1987,7 @@
       "pu_amort": 3.47725893,
       "pu_total": 13.22767303,
       "parsed_date": "18/02/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 39,
         "Tipo": "Pagamento",
@@ -2036,7 +2036,7 @@
       "pu_amort": 3.48906524,
       "pu_total": 11.46026254,
       "parsed_date": "16/03/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 40,
         "Tipo": "Pagamento",
@@ -2085,7 +2085,7 @@
       "pu_amort": 3.51267318,
       "pu_total": 12.85263486,
       "parsed_date": "15/04/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 41,
         "Tipo": "Pagamento",
@@ -2134,7 +2134,7 @@
       "pu_amort": 3.54377023,
       "pu_total": 12.48591533,
       "parsed_date": "15/05/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 42,
         "Tipo": "Pagamento",
@@ -2183,7 +2183,7 @@
       "pu_amort": 3.56903942,
       "pu_total": 12.54499118,
       "parsed_date": "15/06/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 43,
         "Tipo": "Pagamento",
@@ -2232,7 +2232,7 @@
       "pu_amort": 3.58334524,
       "pu_total": 13.46770285,
       "parsed_date": "15/07/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 44,
         "Tipo": "Pagamento",
@@ -2281,7 +2281,7 @@
       "pu_amort": 3.59433968,
       "pu_total": 13.92758366,
       "parsed_date": "17/08/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 45,
         "Tipo": "Pagamento",
@@ -2330,7 +2330,7 @@
       "pu_amort": 3.60337659,
       "pu_total": 12.57614681,
       "parsed_date": "15/09/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 46,
         "Tipo": "Pagamento",
@@ -2379,7 +2379,7 @@
       "pu_amort": 3.60561924,
       "pu_total": 13.00389444,
       "parsed_date": "15/10/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 47,
         "Tipo": "Pagamento",
@@ -2428,7 +2428,7 @@
       "pu_amort": 3.61794583,
       "pu_total": 13.01470112,
       "parsed_date": "16/11/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 48,
         "Tipo": "Pagamento",
@@ -2477,7 +2477,7 @@
       "pu_amort": 3.62607408,
       "pu_total": 12.56437464,
       "parsed_date": "15/12/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 49,
         "Tipo": "Pagamento",
@@ -2526,7 +2526,7 @@
       "pu_amort": 3.63361613,
       "pu_total": 13.00973481,
       "parsed_date": "15/01/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 50,
         "Tipo": "Pagamento",
@@ -2575,7 +2575,7 @@
       "pu_amort": 4.56168505,
       "pu_total": 13.04845085,
       "parsed_date": "15/02/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 51,
         "Tipo": "Pagamento",
@@ -2624,7 +2624,7 @@
       "pu_amort": 4.57845012,
       "pu_total": 13.50872139,
       "parsed_date": "15/03/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 52,
         "Tipo": "Pagamento",
@@ -2673,7 +2673,7 @@
       "pu_amort": 4.60625931,
       "pu_total": 14.44946335,
       "parsed_date": "15/04/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 53,
         "Tipo": "Pagamento",
@@ -2722,7 +2722,7 @@
       "pu_amort": 4.6210055,
       "pu_total": 14.00547584,
       "parsed_date": "17/05/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 54,
         "Tipo": "Pagamento",
@@ -2771,7 +2771,7 @@
       "pu_amort": 4.63901794,
       "pu_total": 13.5701326,
       "parsed_date": "15/06/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 55,
         "Tipo": "Pagamento",
@@ -2820,7 +2820,7 @@
       "pu_amort": 4.65072313,
       "pu_total": 14.46293952,
       "parsed_date": "15/07/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 56,
         "Tipo": "Pagamento",
@@ -2869,7 +2869,7 @@
       "pu_amort": 4.66199162,
       "pu_total": 14.45508977,
       "parsed_date": "16/08/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 57,
         "Tipo": "Pagamento",
@@ -2918,7 +2918,7 @@
       "pu_amort": 4.67171078,
       "pu_total": 13.99655013,
       "parsed_date": "15/09/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 58,
         "Tipo": "Pagamento",
@@ -2967,7 +2967,7 @@
       "pu_amort": 4.67940404,
       "pu_total": 13.97922075,
       "parsed_date": "15/10/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 59,
         "Tipo": "Pagamento",
@@ -3016,7 +3016,7 @@
       "pu_amort": 4.69225826,
       "pu_total": 13.53149082,
       "parsed_date": "16/11/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 60,
         "Tipo": "Pagamento",
@@ -3065,7 +3065,7 @@
       "pu_amort": 4.7064012,
       "pu_total": 13.97760186,
       "parsed_date": "15/12/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 61,
         "Tipo": "Pagamento",
@@ -3114,7 +3114,7 @@
       "pu_amort": 4.71984625,
       "pu_total": 14.86150516,
       "parsed_date": "17/01/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 62,
         "Tipo": "Pagamento",
@@ -3163,7 +3163,7 @@
       "pu_amort": 5.69102364,
       "pu_total": 14.94950399,
       "parsed_date": "15/02/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 63,
         "Tipo": "Pagamento",
@@ -3212,7 +3212,7 @@
       "pu_amort": 5.71136558,
       "pu_total": 14.06939682,
       "parsed_date": "15/03/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 64,
         "Tipo": "Pagamento",
@@ -3261,7 +3261,7 @@
       "pu_amort": 5.7418932,
       "pu_total": 15.42537338,
       "parsed_date": "17/04/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 65,
         "Tipo": "Pagamento",
@@ -3310,7 +3310,7 @@
       "pu_amort": 5.76067576,
       "pu_total": 13.65918717,
       "parsed_date": "15/05/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 66,
         "Tipo": "Pagamento",
@@ -3359,7 +3359,7 @@
       "pu_amort": 5.78089897,
       "pu_total": 15.86394571,
       "parsed_date": "16/06/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 67,
         "Tipo": "Pagamento",
@@ -3408,7 +3408,7 @@
       "pu_amort": 5.79783794,
       "pu_total": 14.97705862,
       "parsed_date": "17/07/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 68,
         "Tipo": "Pagamento",
@@ -3457,7 +3457,7 @@
       "pu_amort": 5.81552741,
       "pu_total": 14.97130804,
       "parsed_date": "15/08/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 69,
         "Tipo": "Pagamento",
@@ -3506,7 +3506,7 @@
       "pu_amort": 5.83290691,
       "pu_total": 15.40186965,
       "parsed_date": "15/09/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 70,
         "Tipo": "Pagamento",
@@ -3555,7 +3555,7 @@
       "pu_amort": 5.84997535,
       "pu_total": 14.52267957,
       "parsed_date": "16/10/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 71,
         "Tipo": "Pagamento",
@@ -3604,7 +3604,7 @@
       "pu_amort": 5.86777171,
       "pu_total": 14.95189145,
       "parsed_date": "16/11/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 72,
         "Tipo": "Pagamento",
@@ -3653,7 +3653,7 @@
       "pu_amort": 5.88524347,
       "pu_total": 14.51181967,
       "parsed_date": "15/12/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 73,
         "Tipo": "Pagamento",
@@ -3702,7 +3702,7 @@
       "pu_amort": 5.90238956,
       "pu_total": 14.07372449,
       "parsed_date": "15/01/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 74,
         "Tipo": "Pagamento",
@@ -3751,7 +3751,7 @@
       "pu_amort": 6.90643146,
       "pu_total": 15.91686833,
       "parsed_date": "15/02/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 75,
         "Tipo": "Pagamento",
@@ -3800,7 +3800,7 @@
       "pu_amort": 6.92613047,
       "pu_total": 15.47274529,
       "parsed_date": "15/03/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 76,
         "Tipo": "Pagamento",
@@ -3849,7 +3849,7 @@
       "pu_amort": 6.94628501,
       "pu_total": 15.88718972,
       "parsed_date": "16/04/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 77,
         "Tipo": "Pagamento",
@@ -3898,7 +3898,7 @@
       "pu_amort": 6.96585546,
       "pu_total": 15.44574043,
       "parsed_date": "15/05/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 78,
         "Tipo": "Pagamento",
@@ -3947,7 +3947,7 @@
       "pu_amort": 6.9858564,
       "pu_total": 16.28045254,
       "parsed_date": "15/06/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 79,
         "Tipo": "Pagamento",
@@ -3996,7 +3996,7 @@
       "pu_amort": 7.00626763,
       "pu_total": 15.84081409,
       "parsed_date": "16/07/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 80,
         "Tipo": "Pagamento",
@@ -4045,7 +4045,7 @@
       "pu_amort": 7.0260615,
       "pu_total": 16.24548817,
       "parsed_date": "15/08/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 81,
         "Tipo": "Pagamento",
@@ -4094,7 +4094,7 @@
       "pu_amort": 7.04624023,
       "pu_total": 16.22764474,
       "parsed_date": "17/09/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 82,
         "Tipo": "Pagamento",
@@ -4143,7 +4143,7 @@
       "pu_amort": 7.06678332,
       "pu_total": 14.95817555,
       "parsed_date": "15/10/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 83,
         "Tipo": "Pagamento",
@@ -4192,7 +4192,7 @@
       "pu_amort": 7.08667537,
       "pu_total": 16.19114827,
       "parsed_date": "16/11/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 84,
         "Tipo": "Pagamento",
@@ -4241,7 +4241,7 @@
       "pu_amort": 7.10789652,
       "pu_total": 15.34590105,
       "parsed_date": "17/12/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 85,
         "Tipo": "Pagamento",
@@ -4290,7 +4290,7 @@
       "pu_amort": 7.12744728,
       "pu_total": 14.91808248,
       "parsed_date": "15/01/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 86,
         "Tipo": "Pagamento",
@@ -4339,7 +4339,7 @@
       "pu_amort": 8.16947726,
       "pu_total": 17.56676018,
       "parsed_date": "15/02/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 87,
         "Tipo": "Pagamento",
@@ -4388,7 +4388,7 @@
       "pu_amort": 8.19312315,
       "pu_total": 15.49968885,
       "parsed_date": "15/03/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 88,
         "Tipo": "Pagamento",
@@ -4437,7 +4437,7 @@
       "pu_amort": 8.21665666,
       "pu_total": 16.69900626,
       "parsed_date": "15/04/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 89,
         "Tipo": "Pagamento",
@@ -4486,7 +4486,7 @@
       "pu_amort": 8.24005322,
       "pu_total": 16.27146015,
       "parsed_date": "15/05/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 90,
         "Tipo": "Pagamento",
@@ -4535,7 +4535,7 @@
       "pu_amort": 8.26328824,
       "pu_total": 17.45259862,
       "parsed_date": "17/06/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 91,
         "Tipo": "Pagamento",
@@ -4584,7 +4584,7 @@
       "pu_amort": 8.28729175,
       "pu_total": 15.82847998,
       "parsed_date": "15/07/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 92,
         "Tipo": "Pagamento",
@@ -4633,7 +4633,7 @@
       "pu_amort": 8.31106496,
       "pu_total": 17.39413552,
       "parsed_date": "15/08/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 93,
         "Tipo": "Pagamento",
@@ -4682,7 +4682,7 @@
       "pu_amort": 8.33552656,
       "pu_total": 16.97053299,
       "parsed_date": "16/09/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 94,
         "Tipo": "Pagamento",
@@ -4731,7 +4731,7 @@
       "pu_amort": 8.35875076,
       "pu_total": 16.55018959,
       "parsed_date": "15/10/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 95,
         "Tipo": "Pagamento",
@@ -4780,7 +4780,7 @@
       "pu_amort": 8.3826024,
       "pu_total": 17.30344004,
       "parsed_date": "18/11/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 96,
         "Tipo": "Pagamento",
@@ -4829,7 +4829,7 @@
       "pu_amort": 8.40703113,
       "pu_total": 15.72504,
       "parsed_date": "16/12/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 97,
         "Tipo": "Pagamento",
@@ -4878,7 +4878,7 @@
       "pu_amort": 8.43106566,
       "pu_total": 16.08782844,
       "parsed_date": "15/01/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 98,
         "Tipo": "Pagamento",
@@ -4927,7 +4927,7 @@
       "pu_amort": 9.5122023,
       "pu_total": 18.26733284,
       "parsed_date": "17/02/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 99,
         "Tipo": "Pagamento",
@@ -4976,7 +4976,7 @@
       "pu_amort": 9.55477584,
       "pu_total": 16.35882657,
       "parsed_date": "17/03/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 100,
         "Tipo": "Pagamento",
@@ -5025,7 +5025,7 @@
       "pu_amort": 9.59816162,
       "pu_total": 17.11556401,
       "parsed_date": "15/04/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 101,
         "Tipo": "Pagamento",
@@ -5074,7 +5074,7 @@
       "pu_amort": 9.6413772,
       "pu_total": 17.11242138,
       "parsed_date": "15/05/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 102,
         "Tipo": "Pagamento",
@@ -5123,7 +5123,7 @@
       "pu_amort": 9.68436428,
       "pu_total": 17.48130319,
       "parsed_date": "16/06/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 103,
         "Tipo": "Pagamento",
@@ -5172,7 +5172,7 @@
       "pu_amort": 9.72795125,
       "pu_total": 17.47500674,
       "parsed_date": "15/07/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 104,
         "Tipo": "Pagamento",
@@ -5221,7 +5221,7 @@
       "pu_amort": 9.77205211,
       "pu_total": 18.20511984,
       "parsed_date": "15/08/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 105,
         "Tipo": "Pagamento",
@@ -5270,7 +5270,7 @@
       "pu_amort": 9.81570481,
       "pu_total": 17.46116552,
       "parsed_date": "15/09/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 106,
         "Tipo": "Pagamento",
@@ -5319,7 +5319,7 @@
       "pu_amort": 9.86058839,
       "pu_total": 17.81758854,
       "parsed_date": "15/10/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 107,
         "Tipo": "Pagamento",
@@ -5368,7 +5368,7 @@
       "pu_amort": 9.90486024,
       "pu_total": 18.16791391,
       "parsed_date": "17/11/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 108,
         "Tipo": "Pagamento",
@@ -5417,7 +5417,7 @@
       "pu_amort": 9.94931714,
       "pu_total": 16.72175517,
       "parsed_date": "15/12/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 109,
         "Tipo": "Pagamento",
@@ -5466,7 +5466,7 @@
       "pu_amort": 9.99387006,
       "pu_total": 17.42870505,
       "parsed_date": "15/01/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 110,
         "Tipo": "Pagamento",
@@ -5515,7 +5515,7 @@
       "pu_amort": 12.6418302,
       "pu_total": 19.66952171,
       "parsed_date": "16/02/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 111,
         "Tipo": "Pagamento",
@@ -5564,7 +5564,7 @@
       "pu_amort": 12.69852519,
       "pu_total": 19.65222689,
       "parsed_date": "15/03/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 112,
         "Tipo": "Pagamento",
@@ -5613,7 +5613,7 @@
       "pu_amort": 12.75547595,
       "pu_total": 20.32541091,
       "parsed_date": "15/04/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 113,
         "Tipo": "Pagamento",
@@ -5662,7 +5662,7 @@
       "pu_amort": 12.81323267,
       "pu_total": 19.95817555,
       "parsed_date": "17/05/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 114,
         "Tipo": "Pagamento",
@@ -5711,7 +5711,7 @@
       "pu_amort": 12.87067757,
       "pu_total": 19.5975425,
       "parsed_date": "15/06/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 115,
         "Tipo": "Pagamento",
@@ -5760,7 +5760,7 @@
       "pu_amort": 12.92834115,
       "pu_total": 20.24594614,
       "parsed_date": "15/07/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 116,
         "Tipo": "Pagamento",
@@ -5809,7 +5809,7 @@
       "pu_amort": 12.9867033,
       "pu_total": 20.21837938,
       "parsed_date": "16/08/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 117,
         "Tipo": "Pagamento",
@@ -5858,7 +5858,7 @@
       "pu_amort": 13.04541174,
       "pu_total": 19.86405665,
       "parsed_date": "15/09/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 118,
         "Tipo": "Pagamento",
@@ -5907,7 +5907,7 @@
       "pu_amort": 13.10411339,
       "pu_total": 19.83898307,
       "parsed_date": "15/10/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 119,
         "Tipo": "Pagamento",
@@ -5956,7 +5956,7 @@
       "pu_amort": 13.16321624,
       "pu_total": 19.49542904,
       "parsed_date": "16/11/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 120,
         "Tipo": "Pagamento",
@@ -6005,7 +6005,7 @@
       "pu_amort": 13.22232423,
       "pu_total": 19.78695983,
       "parsed_date": "15/12/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 121,
         "Tipo": "Pagamento",
@@ -6054,7 +6054,7 @@
       "pu_amort": 13.28178284,
       "pu_total": 20.37985891,
       "parsed_date": "17/01/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 122,
         "Tipo": "Pagamento",
@@ -6103,7 +6103,7 @@
       "pu_amort": 14.12622763,
       "pu_total": 20.51701145,
       "parsed_date": "15/02/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 123,
         "Tipo": "Pagamento",
@@ -6152,7 +6152,7 @@
       "pu_amort": 14.18972443,
       "pu_total": 19.58259743,
       "parsed_date": "15/03/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 124,
         "Tipo": "Pagamento",
@@ -6201,7 +6201,7 @@
       "pu_amort": 14.25403141,
       "pu_total": 21.0467009,
       "parsed_date": "18/04/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 125,
         "Tipo": "Pagamento",
@@ -6250,7 +6250,7 @@
       "pu_amort": 14.31776033,
       "pu_total": 19.83656808,
       "parsed_date": "16/05/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 126,
         "Tipo": "Pagamento",
@@ -6299,7 +6299,7 @@
       "pu_amort": 14.38233344,
       "pu_total": 20.67365056,
       "parsed_date": "15/06/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 127,
         "Tipo": "Pagamento",
@@ -6348,7 +6348,7 @@
       "pu_amort": 14.44696796,
       "pu_total": 20.3519001,
       "parsed_date": "15/07/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 128,
         "Tipo": "Pagamento",
@@ -6397,7 +6397,7 @@
       "pu_amort": 14.51221246,
       "pu_total": 20.31696054,
       "parsed_date": "15/08/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 129,
         "Tipo": "Pagamento",
@@ -6446,7 +6446,7 @@
       "pu_amort": 14.57719085,
       "pu_total": 20.55356811,
       "parsed_date": "15/09/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 130,
         "Tipo": "Pagamento",
@@ -6495,7 +6495,7 @@
       "pu_amort": 14.64295467,
       "pu_total": 20.24426255,
       "parsed_date": "17/10/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 131,
         "Tipo": "Pagamento",
@@ -6544,7 +6544,7 @@
       "pu_amort": 14.70911535,
       "pu_total": 19.94425619,
       "parsed_date": "16/11/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 132,
         "Tipo": "Pagamento",
@@ -6593,7 +6593,7 @@
       "pu_amort": 14.77522662,
       "pu_total": 20.16894943,
       "parsed_date": "15/12/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 133,
         "Tipo": "Pagamento",
@@ -6642,7 +6642,7 @@
       "pu_amort": 14.841391,
       "pu_total": 20.38272491,
       "parsed_date": "16/01/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 134,
         "Tipo": "Pagamento",
@@ -6691,7 +6691,7 @@
       "pu_amort": 16.56458415,
       "pu_total": 21.99440808,
       "parsed_date": "15/02/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 135,
         "Tipo": "Pagamento",
@@ -6740,7 +6740,7 @@
       "pu_amort": 16.63913975,
       "pu_total": 20.97351834,
       "parsed_date": "15/03/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 136,
         "Tipo": "Pagamento",
@@ -6789,7 +6789,7 @@
       "pu_amort": 16.71435031,
       "pu_total": 21.8872052,
       "parsed_date": "17/04/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 137,
         "Tipo": "Pagamento",
@@ -6838,7 +6838,7 @@
       "pu_amort": 16.78944702,
       "pu_total": 20.91168159,
       "parsed_date": "15/05/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 138,
         "Tipo": "Pagamento",
@@ -6887,7 +6887,7 @@
       "pu_amort": 16.86507769,
       "pu_total": 21.77588066,
       "parsed_date": "15/06/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 139,
         "Tipo": "Pagamento",
@@ -6936,7 +6936,7 @@
       "pu_amort": 16.94095369,
       "pu_total": 21.71880431,
       "parsed_date": "17/07/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 140,
         "Tipo": "Pagamento",
@@ -6985,7 +6985,7 @@
       "pu_amort": 17.01695721,
       "pu_total": 21.4485676,
       "parsed_date": "15/08/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 141,
         "Tipo": "Pagamento",
@@ -7034,7 +7034,7 @@
       "pu_amort": 17.09354771,
       "pu_total": 21.60159904,
       "parsed_date": "15/09/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 142,
         "Tipo": "Pagamento",
@@ -7083,7 +7083,7 @@
       "pu_amort": 17.17062789,
       "pu_total": 21.14278558,
       "parsed_date": "16/10/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 143,
         "Tipo": "Pagamento",
@@ -7132,7 +7132,7 @@
       "pu_amort": 17.24801184,
       "pu_total": 21.28776142,
       "parsed_date": "16/11/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 144,
         "Tipo": "Pagamento",
@@ -7181,7 +7181,7 @@
       "pu_amort": 17.32534035,
       "pu_total": 21.04513659,
       "parsed_date": "15/12/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 145,
         "Tipo": "Pagamento",
@@ -7230,7 +7230,7 @@
       "pu_amort": 17.40329377,
       "pu_total": 20.81478978,
       "parsed_date": "15/01/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 146,
         "Tipo": "Pagamento",
@@ -7279,7 +7279,7 @@
       "pu_amort": 18.3558457,
       "pu_total": 21.99229069,
       "parsed_date": "15/02/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 147,
         "Tipo": "Pagamento",
@@ -7328,7 +7328,7 @@
       "pu_amort": 18.43821153,
       "pu_total": 21.76300448,
       "parsed_date": "15/03/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 148,
         "Tipo": "Pagamento",
@@ -7377,7 +7377,7 @@
       "pu_amort": 18.52149206,
       "pu_total": 21.8671866,
       "parsed_date": "16/04/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 149,
         "Tipo": "Pagamento",
@@ -7426,7 +7426,7 @@
       "pu_amort": 18.60487145,
       "pu_total": 21.65018693,
       "parsed_date": "15/05/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 150,
         "Tipo": "Pagamento",
@@ -7475,7 +7475,7 @@
       "pu_amort": 18.68825762,
       "pu_total": 21.88352899,
       "parsed_date": "15/06/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 151,
         "Tipo": "Pagamento",
@@ -7524,7 +7524,7 @@
       "pu_amort": 18.77251268,
       "pu_total": 21.67166535,
       "parsed_date": "16/07/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 152,
         "Tipo": "Pagamento",
@@ -7573,7 +7573,7 @@
       "pu_amort": 18.85712384,
       "pu_total": 21.73604445,
       "parsed_date": "15/08/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 153,
         "Tipo": "Pagamento",
@@ -7622,7 +7622,7 @@
       "pu_amort": 18.94195953,
       "pu_total": 21.66047023,
       "parsed_date": "17/09/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 154,
         "Tipo": "Pagamento",
@@ -7671,7 +7671,7 @@
       "pu_amort": 19.02695077,
       "pu_total": 21.2335494,
       "parsed_date": "15/10/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 155,
         "Tipo": "Pagamento",
@@ -7720,7 +7720,7 @@
       "pu_amort": 19.11262878,
       "pu_total": 21.50580608,
       "parsed_date": "16/11/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 156,
         "Tipo": "Pagamento",
@@ -7769,7 +7769,7 @@
       "pu_amort": 19.19862336,
       "pu_total": 21.22344927,
       "parsed_date": "17/12/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 157,
         "Tipo": "Pagamento",
@@ -7818,7 +7818,7 @@
       "pu_amort": 19.28502829,
       "pu_total": 21.06452736,
       "parsed_date": "15/01/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 158,
         "Tipo": "Pagamento",
@@ -7867,7 +7867,7 @@
       "pu_amort": 20.29441238,
       "pu_total": 22.27463538,
       "parsed_date": "15/02/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 159,
         "Tipo": "Pagamento",
@@ -7916,7 +7916,7 @@
       "pu_amort": 20.38564824,
       "pu_total": 21.86644742,
       "parsed_date": "17/03/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 160,
         "Tipo": "Pagamento",
@@ -7965,7 +7965,7 @@
       "pu_amort": 20.47748831,
       "pu_total": 21.87325422,
       "parsed_date": "15/04/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 161,
         "Tipo": "Pagamento",
@@ -8014,7 +8014,7 @@
       "pu_amort": 20.5696649,
       "pu_total": 21.80063539,
       "parsed_date": "15/05/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 162,
         "Tipo": "Pagamento",
@@ -8063,7 +8063,7 @@
       "pu_amort": 20.66220779,
       "pu_total": 21.78033624,
       "parsed_date": "16/06/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 163,
         "Tipo": "Pagamento",
@@ -8112,7 +8112,7 @@
       "pu_amort": 20.7551416,
       "pu_total": 21.6970135,
       "parsed_date": "15/07/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 164,
         "Tipo": "Pagamento",
@@ -8161,7 +8161,7 @@
       "pu_amort": 21.79615448,
       "pu_total": 22.63327089,
       "parsed_date": "15/08/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 165,
         "Tipo": "Pagamento",
@@ -8210,7 +8210,7 @@
       "pu_amort": 21.89426587,
       "pu_total": 22.47047342,
       "parsed_date": "15/09/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 166,
         "Tipo": "Pagamento",
@@ -8259,7 +8259,7 @@
       "pu_amort": 21.99281151,
       "pu_total": 22.39801232,
       "parsed_date": "15/10/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 167,
         "Tipo": "Pagamento",
@@ -8308,7 +8308,7 @@
       "pu_amort": 22.379956,
       "pu_total": 22.59414176,
       "parsed_date": "17/11/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 168,
         "Tipo": "Pagamento",
@@ -8359,7 +8359,7 @@
       "pu_amort": 0.45144643,
       "pu_total": 5.44935273,
       "parsed_date": "15/12/2022",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 1,
         "Tipo": "Pagamento",
@@ -8408,7 +8408,7 @@
       "pu_amort": 0.4530932,
       "pu_total": 9.66842995,
       "parsed_date": "16/01/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 2,
         "Tipo": "Pagamento",
@@ -8457,7 +8457,7 @@
       "pu_amort": 0.45569707,
       "pu_total": 9.72399336,
       "parsed_date": "15/02/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 3,
         "Tipo": "Pagamento",
@@ -8506,7 +8506,7 @@
       "pu_amort": 0.45892349,
       "pu_total": 8.07251421,
       "parsed_date": "15/03/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 4,
         "Tipo": "Pagamento",
@@ -8555,7 +8555,7 @@
       "pu_amort": 0.4625697,
       "pu_total": 9.8497859,
       "parsed_date": "17/04/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 5,
         "Tipo": "Pagamento",
@@ -8604,7 +8604,7 @@
       "pu_amort": 0.46564399,
       "pu_total": 8.19072854,
       "parsed_date": "15/05/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 6,
         "Tipo": "Pagamento",
@@ -8653,7 +8653,7 @@
       "pu_amort": 0.46827321,
       "pu_total": 9.97123429,
       "parsed_date": "15/06/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 7,
         "Tipo": "Pagamento",
@@ -8702,7 +8702,7 @@
       "pu_amort": 0.46913821,
       "pu_total": 9.98965328,
       "parsed_date": "17/07/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 8,
         "Tipo": "Pagamento",
@@ -8751,7 +8751,7 @@
       "pu_amort": 0.46959056,
       "pu_total": 9.54411024,
       "parsed_date": "15/08/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 9,
         "Tipo": "Pagamento",
@@ -8800,7 +8800,7 @@
       "pu_amort": 0.46994141,
       "pu_total": 9.98565733,
       "parsed_date": "15/09/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 10,
         "Tipo": "Pagamento",
@@ -8849,7 +8849,7 @@
       "pu_amort": 0.47080964,
       "pu_total": 9.13384878,
       "parsed_date": "16/10/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 11,
         "Tipo": "Pagamento",
@@ -8898,7 +8898,7 @@
       "pu_amort": 0.47182063,
       "pu_total": 9.58943491,
       "parsed_date": "16/11/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 12,
         "Tipo": "Pagamento",
@@ -8947,7 +8947,7 @@
       "pu_amort": 0.47273911,
       "pu_total": 9.17128103,
       "parsed_date": "15/12/2023",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 13,
         "Tipo": "Pagamento",
@@ -8996,7 +8996,7 @@
       "pu_amort": 3.16388373,
       "pu_total": 11.44517747,
       "parsed_date": "15/01/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 14,
         "Tipo": "Pagamento",
@@ -9045,7 +9045,7 @@
       "pu_amort": 3.18145906,
       "pu_total": 12.36175415,
       "parsed_date": "15/02/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 15,
         "Tipo": "Pagamento",
@@ -9094,7 +9094,7 @@
       "pu_amort": 3.19462173,
       "pu_total": 12.38557162,
       "parsed_date": "15/03/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 16,
         "Tipo": "Pagamento",
@@ -9143,7 +9143,7 @@
       "pu_amort": 3.22087554,
       "pu_total": 12.01818779,
       "parsed_date": "15/04/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 17,
         "Tipo": "Pagamento",
@@ -9192,7 +9192,7 @@
       "pu_amort": 3.22676649,
       "pu_total": 12.45246051,
       "parsed_date": "15/05/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 18,
         "Tipo": "Pagamento",
@@ -9241,7 +9241,7 @@
       "pu_amort": 3.23864467,
       "pu_total": 12.91274797,
       "parsed_date": "17/06/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 19,
         "Tipo": "Pagamento",
@@ -9290,7 +9290,7 @@
       "pu_amort": 3.25310193,
       "pu_total": 12.05747569,
       "parsed_date": "15/07/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 20,
         "Tipo": "Pagamento",
@@ -9339,7 +9339,7 @@
       "pu_amort": 3.26049294,
       "pu_total": 13.38190485,
       "parsed_date": "15/08/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 21,
         "Tipo": "Pagamento",
@@ -9388,7 +9388,7 @@
       "pu_amort": 3.27231841,
       "pu_total": 12.95849205,
       "parsed_date": "16/09/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 22,
         "Tipo": "Pagamento",
@@ -9437,7 +9437,7 @@
       "pu_amort": 3.27209798,
       "pu_total": 12.48565291,
       "parsed_date": "15/10/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 23,
         "Tipo": "Pagamento",
@@ -9486,7 +9486,7 @@
       "pu_amort": 3.28686115,
       "pu_total": 13.39504497,
       "parsed_date": "18/11/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 24,
         "Tipo": "Pagamento",
@@ -9535,7 +9535,7 @@
       "pu_amort": 3.30450886,
       "pu_total": 11.66843257,
       "parsed_date": "16/12/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 25,
         "Tipo": "Pagamento",
@@ -9584,7 +9584,7 @@
       "pu_amort": 3.31763816,
       "pu_total": 12.13034474,
       "parsed_date": "15/01/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 26,
         "Tipo": "Pagamento",
@@ -9633,7 +9633,7 @@
       "pu_amort": 3.33506543,
       "pu_total": 13.4967985,
       "parsed_date": "17/02/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 27,
         "Tipo": "Pagamento",
@@ -9682,7 +9682,7 @@
       "pu_amort": 3.34051036,
       "pu_total": 11.2726471,
       "parsed_date": "17/03/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 28,
         "Tipo": "Pagamento",
@@ -9731,7 +9731,7 @@
       "pu_amort": 3.38431584,
       "pu_total": 12.73598459,
       "parsed_date": "15/04/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 29,
         "Tipo": "Pagamento",
@@ -9780,7 +9780,7 @@
       "pu_amort": 3.40324352,
       "pu_total": 11.88124904,
       "parsed_date": "15/05/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 30,
         "Tipo": "Pagamento",
@@ -9829,7 +9829,7 @@
       "pu_amort": 3.41778603,
       "pu_total": 13.25149567,
       "parsed_date": "16/06/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 31,
         "Tipo": "Pagamento",
@@ -9878,7 +9878,7 @@
       "pu_amort": 3.42651052,
       "pu_total": 12.35727477,
       "parsed_date": "15/07/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 32,
         "Tipo": "Pagamento",
@@ -9927,7 +9927,7 @@
       "pu_amort": 3.43450379,
       "pu_total": 13.70306714,
       "parsed_date": "15/08/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 33,
         "Tipo": "Pagamento",
@@ -9976,7 +9976,7 @@
       "pu_amort": 3.44313225,
       "pu_total": 12.80917471,
       "parsed_date": "15/09/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 34,
         "Tipo": "Pagamento",
@@ -10025,7 +10025,7 @@
       "pu_amort": 3.44004321,
       "pu_total": 13.21184256,
       "parsed_date": "15/10/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 35,
         "Tipo": "Pagamento",
@@ -10074,7 +10074,7 @@
       "pu_amort": 3.45610954,
       "pu_total": 13.69015891,
       "parsed_date": "17/11/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 36,
         "Tipo": "Pagamento",
@@ -10123,7 +10123,7 @@
       "pu_amort": 3.45977364,
       "pu_total": 11.88725201,
       "parsed_date": "15/12/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 37,
         "Tipo": "Pagamento",
@@ -10172,7 +10172,7 @@
       "pu_amort": 3.4654148,
       "pu_total": 12.77036141,
       "parsed_date": "15/01/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 38,
         "Tipo": "Pagamento",
@@ -10221,7 +10221,7 @@
       "pu_amort": 3.47725893,
       "pu_total": 13.22767303,
       "parsed_date": "18/02/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 39,
         "Tipo": "Pagamento",
@@ -10270,7 +10270,7 @@
       "pu_amort": 3.48906524,
       "pu_total": 11.46026254,
       "parsed_date": "16/03/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 40,
         "Tipo": "Pagamento",
@@ -10319,7 +10319,7 @@
       "pu_amort": 3.51267318,
       "pu_total": 12.85263486,
       "parsed_date": "15/04/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 41,
         "Tipo": "Pagamento",
@@ -10368,7 +10368,7 @@
       "pu_amort": 3.54377023,
       "pu_total": 12.48591533,
       "parsed_date": "15/05/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 42,
         "Tipo": "Pagamento",
@@ -10417,7 +10417,7 @@
       "pu_amort": 3.56903942,
       "pu_total": 12.54499118,
       "parsed_date": "15/06/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 43,
         "Tipo": "Pagamento",
@@ -10466,7 +10466,7 @@
       "pu_amort": 3.58334524,
       "pu_total": 13.46770285,
       "parsed_date": "15/07/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 44,
         "Tipo": "Pagamento",
@@ -10515,7 +10515,7 @@
       "pu_amort": 3.59433968,
       "pu_total": 13.92758366,
       "parsed_date": "17/08/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 45,
         "Tipo": "Pagamento",
@@ -10564,7 +10564,7 @@
       "pu_amort": 3.60337659,
       "pu_total": 12.57614681,
       "parsed_date": "15/09/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 46,
         "Tipo": "Pagamento",
@@ -10613,7 +10613,7 @@
       "pu_amort": 3.60561924,
       "pu_total": 13.00389444,
       "parsed_date": "15/10/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 47,
         "Tipo": "Pagamento",
@@ -10662,7 +10662,7 @@
       "pu_amort": 3.61794583,
       "pu_total": 13.01470112,
       "parsed_date": "16/11/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 48,
         "Tipo": "Pagamento",
@@ -10711,7 +10711,7 @@
       "pu_amort": 3.62607408,
       "pu_total": 12.56437464,
       "parsed_date": "15/12/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 49,
         "Tipo": "Pagamento",
@@ -10760,7 +10760,7 @@
       "pu_amort": 3.63361613,
       "pu_total": 13.00973481,
       "parsed_date": "15/01/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 50,
         "Tipo": "Pagamento",
@@ -10809,7 +10809,7 @@
       "pu_amort": 4.56168505,
       "pu_total": 13.04845085,
       "parsed_date": "15/02/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 51,
         "Tipo": "Pagamento",
@@ -10858,7 +10858,7 @@
       "pu_amort": 4.57845012,
       "pu_total": 13.50872139,
       "parsed_date": "15/03/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 52,
         "Tipo": "Pagamento",
@@ -10907,7 +10907,7 @@
       "pu_amort": 4.60625931,
       "pu_total": 14.44946335,
       "parsed_date": "15/04/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 53,
         "Tipo": "Pagamento",
@@ -10956,7 +10956,7 @@
       "pu_amort": 4.6210055,
       "pu_total": 14.00547584,
       "parsed_date": "17/05/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 54,
         "Tipo": "Pagamento",
@@ -11005,7 +11005,7 @@
       "pu_amort": 4.63901794,
       "pu_total": 13.5701326,
       "parsed_date": "15/06/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 55,
         "Tipo": "Pagamento",
@@ -11054,7 +11054,7 @@
       "pu_amort": 4.65072313,
       "pu_total": 14.46293952,
       "parsed_date": "15/07/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 56,
         "Tipo": "Pagamento",
@@ -11103,7 +11103,7 @@
       "pu_amort": 4.66199162,
       "pu_total": 14.45508977,
       "parsed_date": "16/08/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 57,
         "Tipo": "Pagamento",
@@ -11152,7 +11152,7 @@
       "pu_amort": 4.67171078,
       "pu_total": 13.99655013,
       "parsed_date": "15/09/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 58,
         "Tipo": "Pagamento",
@@ -11201,7 +11201,7 @@
       "pu_amort": 4.67940404,
       "pu_total": 13.97922075,
       "parsed_date": "15/10/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 59,
         "Tipo": "Pagamento",
@@ -11250,7 +11250,7 @@
       "pu_amort": 4.69225826,
       "pu_total": 13.53149082,
       "parsed_date": "16/11/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 60,
         "Tipo": "Pagamento",
@@ -11299,7 +11299,7 @@
       "pu_amort": 4.7064012,
       "pu_total": 13.97760186,
       "parsed_date": "15/12/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 61,
         "Tipo": "Pagamento",
@@ -11348,7 +11348,7 @@
       "pu_amort": 4.71984625,
       "pu_total": 14.86150516,
       "parsed_date": "17/01/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 62,
         "Tipo": "Pagamento",
@@ -11397,7 +11397,7 @@
       "pu_amort": 5.69102364,
       "pu_total": 14.94950399,
       "parsed_date": "15/02/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 63,
         "Tipo": "Pagamento",
@@ -11446,7 +11446,7 @@
       "pu_amort": 5.71136558,
       "pu_total": 14.06939682,
       "parsed_date": "15/03/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 64,
         "Tipo": "Pagamento",
@@ -11495,7 +11495,7 @@
       "pu_amort": 5.7418932,
       "pu_total": 15.42537338,
       "parsed_date": "17/04/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 65,
         "Tipo": "Pagamento",
@@ -11544,7 +11544,7 @@
       "pu_amort": 5.76067576,
       "pu_total": 13.65918717,
       "parsed_date": "15/05/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 66,
         "Tipo": "Pagamento",
@@ -11593,7 +11593,7 @@
       "pu_amort": 5.78089897,
       "pu_total": 15.86394571,
       "parsed_date": "16/06/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 67,
         "Tipo": "Pagamento",
@@ -11642,7 +11642,7 @@
       "pu_amort": 5.79783794,
       "pu_total": 14.97705862,
       "parsed_date": "17/07/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 68,
         "Tipo": "Pagamento",
@@ -11691,7 +11691,7 @@
       "pu_amort": 5.81552741,
       "pu_total": 14.97130804,
       "parsed_date": "15/08/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 69,
         "Tipo": "Pagamento",
@@ -11740,7 +11740,7 @@
       "pu_amort": 5.83290691,
       "pu_total": 15.40186965,
       "parsed_date": "15/09/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 70,
         "Tipo": "Pagamento",
@@ -11789,7 +11789,7 @@
       "pu_amort": 5.84997535,
       "pu_total": 14.52267957,
       "parsed_date": "16/10/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 71,
         "Tipo": "Pagamento",
@@ -11838,7 +11838,7 @@
       "pu_amort": 5.86777171,
       "pu_total": 14.95189145,
       "parsed_date": "16/11/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 72,
         "Tipo": "Pagamento",
@@ -11887,7 +11887,7 @@
       "pu_amort": 5.88524347,
       "pu_total": 14.51181967,
       "parsed_date": "15/12/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 73,
         "Tipo": "Pagamento",
@@ -11936,7 +11936,7 @@
       "pu_amort": 5.90238956,
       "pu_total": 14.07372449,
       "parsed_date": "15/01/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 74,
         "Tipo": "Pagamento",
@@ -11985,7 +11985,7 @@
       "pu_amort": 6.90643146,
       "pu_total": 15.91686833,
       "parsed_date": "15/02/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 75,
         "Tipo": "Pagamento",
@@ -12034,7 +12034,7 @@
       "pu_amort": 6.92613047,
       "pu_total": 15.47274529,
       "parsed_date": "15/03/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 76,
         "Tipo": "Pagamento",
@@ -12083,7 +12083,7 @@
       "pu_amort": 6.94628501,
       "pu_total": 15.88718972,
       "parsed_date": "16/04/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 77,
         "Tipo": "Pagamento",
@@ -12132,7 +12132,7 @@
       "pu_amort": 6.96585546,
       "pu_total": 15.44574043,
       "parsed_date": "15/05/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 78,
         "Tipo": "Pagamento",
@@ -12181,7 +12181,7 @@
       "pu_amort": 6.9858564,
       "pu_total": 16.28045254,
       "parsed_date": "15/06/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 79,
         "Tipo": "Pagamento",
@@ -12230,7 +12230,7 @@
       "pu_amort": 7.00626763,
       "pu_total": 15.84081409,
       "parsed_date": "16/07/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 80,
         "Tipo": "Pagamento",
@@ -12279,7 +12279,7 @@
       "pu_amort": 7.0260615,
       "pu_total": 16.24548817,
       "parsed_date": "15/08/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 81,
         "Tipo": "Pagamento",
@@ -12328,7 +12328,7 @@
       "pu_amort": 7.04624023,
       "pu_total": 16.22764474,
       "parsed_date": "17/09/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 82,
         "Tipo": "Pagamento",
@@ -12377,7 +12377,7 @@
       "pu_amort": 7.06678332,
       "pu_total": 14.95817555,
       "parsed_date": "15/10/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 83,
         "Tipo": "Pagamento",
@@ -12426,7 +12426,7 @@
       "pu_amort": 7.08667537,
       "pu_total": 16.19114827,
       "parsed_date": "16/11/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 84,
         "Tipo": "Pagamento",
@@ -12475,7 +12475,7 @@
       "pu_amort": 7.10789652,
       "pu_total": 15.34590105,
       "parsed_date": "17/12/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 85,
         "Tipo": "Pagamento",
@@ -12524,7 +12524,7 @@
       "pu_amort": 7.12744728,
       "pu_total": 14.91808248,
       "parsed_date": "15/01/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 86,
         "Tipo": "Pagamento",
@@ -12573,7 +12573,7 @@
       "pu_amort": 8.16947726,
       "pu_total": 17.56676018,
       "parsed_date": "15/02/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 87,
         "Tipo": "Pagamento",
@@ -12622,7 +12622,7 @@
       "pu_amort": 8.19312315,
       "pu_total": 15.49968885,
       "parsed_date": "15/03/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 88,
         "Tipo": "Pagamento",
@@ -12671,7 +12671,7 @@
       "pu_amort": 8.21665666,
       "pu_total": 16.69900626,
       "parsed_date": "15/04/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 89,
         "Tipo": "Pagamento",
@@ -12720,7 +12720,7 @@
       "pu_amort": 8.24005322,
       "pu_total": 16.27146015,
       "parsed_date": "15/05/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 90,
         "Tipo": "Pagamento",
@@ -12769,7 +12769,7 @@
       "pu_amort": 8.26328824,
       "pu_total": 17.45259862,
       "parsed_date": "17/06/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 91,
         "Tipo": "Pagamento",
@@ -12818,7 +12818,7 @@
       "pu_amort": 8.28729175,
       "pu_total": 15.82847998,
       "parsed_date": "15/07/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 92,
         "Tipo": "Pagamento",
@@ -12867,7 +12867,7 @@
       "pu_amort": 8.31106496,
       "pu_total": 17.39413552,
       "parsed_date": "15/08/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 93,
         "Tipo": "Pagamento",
@@ -12916,7 +12916,7 @@
       "pu_amort": 8.33552656,
       "pu_total": 16.97053299,
       "parsed_date": "16/09/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 94,
         "Tipo": "Pagamento",
@@ -12965,7 +12965,7 @@
       "pu_amort": 8.35875076,
       "pu_total": 16.55018959,
       "parsed_date": "15/10/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 95,
         "Tipo": "Pagamento",
@@ -13014,7 +13014,7 @@
       "pu_amort": 8.3826024,
       "pu_total": 17.30344004,
       "parsed_date": "18/11/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 96,
         "Tipo": "Pagamento",
@@ -13063,7 +13063,7 @@
       "pu_amort": 8.40703113,
       "pu_total": 15.72504,
       "parsed_date": "16/12/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 97,
         "Tipo": "Pagamento",
@@ -13112,7 +13112,7 @@
       "pu_amort": 8.43106566,
       "pu_total": 16.08782844,
       "parsed_date": "15/01/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 98,
         "Tipo": "Pagamento",
@@ -13161,7 +13161,7 @@
       "pu_amort": 9.5122023,
       "pu_total": 18.26733284,
       "parsed_date": "17/02/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 99,
         "Tipo": "Pagamento",
@@ -13210,7 +13210,7 @@
       "pu_amort": 9.55477584,
       "pu_total": 16.35882657,
       "parsed_date": "17/03/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 100,
         "Tipo": "Pagamento",
@@ -13259,7 +13259,7 @@
       "pu_amort": 9.59816162,
       "pu_total": 17.11556401,
       "parsed_date": "15/04/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 101,
         "Tipo": "Pagamento",
@@ -13308,7 +13308,7 @@
       "pu_amort": 9.6413772,
       "pu_total": 17.11242138,
       "parsed_date": "15/05/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 102,
         "Tipo": "Pagamento",
@@ -13357,7 +13357,7 @@
       "pu_amort": 9.68436428,
       "pu_total": 17.48130319,
       "parsed_date": "16/06/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 103,
         "Tipo": "Pagamento",
@@ -13406,7 +13406,7 @@
       "pu_amort": 9.72795125,
       "pu_total": 17.47500674,
       "parsed_date": "15/07/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 104,
         "Tipo": "Pagamento",
@@ -13455,7 +13455,7 @@
       "pu_amort": 9.77205211,
       "pu_total": 18.20511984,
       "parsed_date": "15/08/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 105,
         "Tipo": "Pagamento",
@@ -13504,7 +13504,7 @@
       "pu_amort": 9.81570481,
       "pu_total": 17.46116552,
       "parsed_date": "15/09/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 106,
         "Tipo": "Pagamento",
@@ -13553,7 +13553,7 @@
       "pu_amort": 9.86058839,
       "pu_total": 17.81758854,
       "parsed_date": "15/10/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 107,
         "Tipo": "Pagamento",
@@ -13602,7 +13602,7 @@
       "pu_amort": 9.90486024,
       "pu_total": 18.16791391,
       "parsed_date": "17/11/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 108,
         "Tipo": "Pagamento",
@@ -13651,7 +13651,7 @@
       "pu_amort": 9.94931714,
       "pu_total": 16.72175517,
       "parsed_date": "15/12/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 109,
         "Tipo": "Pagamento",
@@ -13700,7 +13700,7 @@
       "pu_amort": 9.99387006,
       "pu_total": 17.42870505,
       "parsed_date": "15/01/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 110,
         "Tipo": "Pagamento",
@@ -13749,7 +13749,7 @@
       "pu_amort": 12.6418302,
       "pu_total": 19.66952171,
       "parsed_date": "16/02/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 111,
         "Tipo": "Pagamento",
@@ -13798,7 +13798,7 @@
       "pu_amort": 12.69852519,
       "pu_total": 19.65222689,
       "parsed_date": "15/03/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 112,
         "Tipo": "Pagamento",
@@ -13847,7 +13847,7 @@
       "pu_amort": 12.75547595,
       "pu_total": 20.32541091,
       "parsed_date": "15/04/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 113,
         "Tipo": "Pagamento",
@@ -13896,7 +13896,7 @@
       "pu_amort": 12.81323267,
       "pu_total": 19.95817555,
       "parsed_date": "17/05/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 114,
         "Tipo": "Pagamento",
@@ -13945,7 +13945,7 @@
       "pu_amort": 12.87067757,
       "pu_total": 19.5975425,
       "parsed_date": "15/06/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 115,
         "Tipo": "Pagamento",
@@ -13994,7 +13994,7 @@
       "pu_amort": 12.92834115,
       "pu_total": 20.24594614,
       "parsed_date": "15/07/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 116,
         "Tipo": "Pagamento",
@@ -14043,7 +14043,7 @@
       "pu_amort": 12.9867033,
       "pu_total": 20.21837938,
       "parsed_date": "16/08/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 117,
         "Tipo": "Pagamento",
@@ -14092,7 +14092,7 @@
       "pu_amort": 13.04541174,
       "pu_total": 19.86405665,
       "parsed_date": "15/09/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 118,
         "Tipo": "Pagamento",
@@ -14141,7 +14141,7 @@
       "pu_amort": 13.10411339,
       "pu_total": 19.83898307,
       "parsed_date": "15/10/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 119,
         "Tipo": "Pagamento",
@@ -14190,7 +14190,7 @@
       "pu_amort": 13.16321624,
       "pu_total": 19.49542904,
       "parsed_date": "16/11/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 120,
         "Tipo": "Pagamento",
@@ -14239,7 +14239,7 @@
       "pu_amort": 13.22232423,
       "pu_total": 19.78695983,
       "parsed_date": "15/12/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 121,
         "Tipo": "Pagamento",
@@ -14288,7 +14288,7 @@
       "pu_amort": 13.28178284,
       "pu_total": 20.37985891,
       "parsed_date": "17/01/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 122,
         "Tipo": "Pagamento",
@@ -14337,7 +14337,7 @@
       "pu_amort": 14.12622763,
       "pu_total": 20.51701145,
       "parsed_date": "15/02/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 123,
         "Tipo": "Pagamento",
@@ -14386,7 +14386,7 @@
       "pu_amort": 14.18972443,
       "pu_total": 19.58259743,
       "parsed_date": "15/03/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 124,
         "Tipo": "Pagamento",
@@ -14435,7 +14435,7 @@
       "pu_amort": 14.25403141,
       "pu_total": 21.0467009,
       "parsed_date": "18/04/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 125,
         "Tipo": "Pagamento",
@@ -14484,7 +14484,7 @@
       "pu_amort": 14.31776033,
       "pu_total": 19.83656808,
       "parsed_date": "16/05/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 126,
         "Tipo": "Pagamento",
@@ -14533,7 +14533,7 @@
       "pu_amort": 14.38233344,
       "pu_total": 20.67365056,
       "parsed_date": "15/06/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 127,
         "Tipo": "Pagamento",
@@ -14582,7 +14582,7 @@
       "pu_amort": 14.44696796,
       "pu_total": 20.3519001,
       "parsed_date": "15/07/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 128,
         "Tipo": "Pagamento",
@@ -14631,7 +14631,7 @@
       "pu_amort": 14.51221246,
       "pu_total": 20.31696054,
       "parsed_date": "15/08/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 129,
         "Tipo": "Pagamento",
@@ -14680,7 +14680,7 @@
       "pu_amort": 14.57719085,
       "pu_total": 20.55356811,
       "parsed_date": "15/09/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 130,
         "Tipo": "Pagamento",
@@ -14729,7 +14729,7 @@
       "pu_amort": 14.64295467,
       "pu_total": 20.24426255,
       "parsed_date": "17/10/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 131,
         "Tipo": "Pagamento",
@@ -14778,7 +14778,7 @@
       "pu_amort": 14.70911535,
       "pu_total": 19.94425619,
       "parsed_date": "16/11/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 132,
         "Tipo": "Pagamento",
@@ -14827,7 +14827,7 @@
       "pu_amort": 14.77522662,
       "pu_total": 20.16894943,
       "parsed_date": "15/12/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 133,
         "Tipo": "Pagamento",
@@ -14876,7 +14876,7 @@
       "pu_amort": 14.841391,
       "pu_total": 20.38272491,
       "parsed_date": "16/01/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 134,
         "Tipo": "Pagamento",
@@ -14925,7 +14925,7 @@
       "pu_amort": 16.56458415,
       "pu_total": 21.99440808,
       "parsed_date": "15/02/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 135,
         "Tipo": "Pagamento",
@@ -14974,7 +14974,7 @@
       "pu_amort": 16.63913975,
       "pu_total": 20.97351834,
       "parsed_date": "15/03/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 136,
         "Tipo": "Pagamento",
@@ -15023,7 +15023,7 @@
       "pu_amort": 16.71435031,
       "pu_total": 21.8872052,
       "parsed_date": "17/04/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 137,
         "Tipo": "Pagamento",
@@ -15072,7 +15072,7 @@
       "pu_amort": 16.78944702,
       "pu_total": 20.91168159,
       "parsed_date": "15/05/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 138,
         "Tipo": "Pagamento",
@@ -15121,7 +15121,7 @@
       "pu_amort": 16.86507769,
       "pu_total": 21.77588066,
       "parsed_date": "15/06/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 139,
         "Tipo": "Pagamento",
@@ -15170,7 +15170,7 @@
       "pu_amort": 16.94095369,
       "pu_total": 21.71880431,
       "parsed_date": "17/07/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 140,
         "Tipo": "Pagamento",
@@ -15219,7 +15219,7 @@
       "pu_amort": 17.01695721,
       "pu_total": 21.4485676,
       "parsed_date": "15/08/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 141,
         "Tipo": "Pagamento",
@@ -15268,7 +15268,7 @@
       "pu_amort": 17.09354771,
       "pu_total": 21.60159904,
       "parsed_date": "15/09/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 142,
         "Tipo": "Pagamento",
@@ -15317,7 +15317,7 @@
       "pu_amort": 17.17062789,
       "pu_total": 21.14278558,
       "parsed_date": "16/10/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 143,
         "Tipo": "Pagamento",
@@ -15366,7 +15366,7 @@
       "pu_amort": 17.24801184,
       "pu_total": 21.28776142,
       "parsed_date": "16/11/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 144,
         "Tipo": "Pagamento",
@@ -15415,7 +15415,7 @@
       "pu_amort": 17.32534035,
       "pu_total": 21.04513659,
       "parsed_date": "15/12/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 145,
         "Tipo": "Pagamento",
@@ -15464,7 +15464,7 @@
       "pu_amort": 17.40329377,
       "pu_total": 20.81478978,
       "parsed_date": "15/01/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 146,
         "Tipo": "Pagamento",
@@ -15513,7 +15513,7 @@
       "pu_amort": 18.3558457,
       "pu_total": 21.99229069,
       "parsed_date": "15/02/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 147,
         "Tipo": "Pagamento",
@@ -15562,7 +15562,7 @@
       "pu_amort": 18.43821153,
       "pu_total": 21.76300448,
       "parsed_date": "15/03/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 148,
         "Tipo": "Pagamento",
@@ -15611,7 +15611,7 @@
       "pu_amort": 18.52149206,
       "pu_total": 21.8671866,
       "parsed_date": "16/04/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 149,
         "Tipo": "Pagamento",
@@ -15660,7 +15660,7 @@
       "pu_amort": 18.60487145,
       "pu_total": 21.65018693,
       "parsed_date": "15/05/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 150,
         "Tipo": "Pagamento",
@@ -15709,7 +15709,7 @@
       "pu_amort": 18.68825762,
       "pu_total": 21.88352899,
       "parsed_date": "15/06/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 151,
         "Tipo": "Pagamento",
@@ -15758,7 +15758,7 @@
       "pu_amort": 18.77251268,
       "pu_total": 21.67166535,
       "parsed_date": "16/07/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 152,
         "Tipo": "Pagamento",
@@ -15807,7 +15807,7 @@
       "pu_amort": 18.85712384,
       "pu_total": 21.73604445,
       "parsed_date": "15/08/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 153,
         "Tipo": "Pagamento",
@@ -15856,7 +15856,7 @@
       "pu_amort": 18.94195953,
       "pu_total": 21.66047023,
       "parsed_date": "17/09/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 154,
         "Tipo": "Pagamento",
@@ -15905,7 +15905,7 @@
       "pu_amort": 19.02695077,
       "pu_total": 21.2335494,
       "parsed_date": "15/10/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 155,
         "Tipo": "Pagamento",
@@ -15954,7 +15954,7 @@
       "pu_amort": 19.11262878,
       "pu_total": 21.50580608,
       "parsed_date": "16/11/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 156,
         "Tipo": "Pagamento",
@@ -16003,7 +16003,7 @@
       "pu_amort": 19.19862336,
       "pu_total": 21.22344927,
       "parsed_date": "17/12/2035",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 157,
         "Tipo": "Pagamento",
@@ -16052,7 +16052,7 @@
       "pu_amort": 19.28502829,
       "pu_total": 21.06452736,
       "parsed_date": "15/01/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 158,
         "Tipo": "Pagamento",
@@ -16101,7 +16101,7 @@
       "pu_amort": 20.29441238,
       "pu_total": 22.27463538,
       "parsed_date": "15/02/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 159,
         "Tipo": "Pagamento",
@@ -16150,7 +16150,7 @@
       "pu_amort": 20.38564824,
       "pu_total": 21.86644742,
       "parsed_date": "17/03/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 160,
         "Tipo": "Pagamento",
@@ -16199,7 +16199,7 @@
       "pu_amort": 20.47748831,
       "pu_total": 21.87325422,
       "parsed_date": "15/04/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 161,
         "Tipo": "Pagamento",
@@ -16248,7 +16248,7 @@
       "pu_amort": 20.5696649,
       "pu_total": 21.80063539,
       "parsed_date": "15/05/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 162,
         "Tipo": "Pagamento",
@@ -16297,7 +16297,7 @@
       "pu_amort": 20.66220779,
       "pu_total": 21.78033624,
       "parsed_date": "16/06/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 163,
         "Tipo": "Pagamento",
@@ -16346,7 +16346,7 @@
       "pu_amort": 20.7551416,
       "pu_total": 21.6970135,
       "parsed_date": "15/07/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 164,
         "Tipo": "Pagamento",
@@ -16395,7 +16395,7 @@
       "pu_amort": 21.79615448,
       "pu_total": 22.63327089,
       "parsed_date": "15/08/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 165,
         "Tipo": "Pagamento",
@@ -16444,7 +16444,7 @@
       "pu_amort": 21.89426587,
       "pu_total": 22.47047342,
       "parsed_date": "15/09/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 166,
         "Tipo": "Pagamento",
@@ -16493,7 +16493,7 @@
       "pu_amort": 21.99281151,
       "pu_total": 22.39801232,
       "parsed_date": "15/10/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 167,
         "Tipo": "Pagamento",
@@ -16542,7 +16542,7 @@
       "pu_amort": 22.379956,
       "pu_total": 22.59414176,
       "parsed_date": "17/11/2036",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 168,
         "Tipo": "Pagamento",
@@ -16589,8 +16589,12 @@
     "event_count": 168,
     "next_payment_date": "15/05/2026",
     "next_payment_amount": 1797971.81,
+    "next_interest_amount": 1287668.89,
+    "next_amortization_amount": 510302.91,
     "last_event_date": "15/04/2026",
-    "final_balance": 0.0
+    "final_balance": 0.0,
+    "duration_years": 5.797699644653532,
+    "wal_years": 6.7829250389990525
   },
   "timeline": [
     {
@@ -16609,7 +16613,7 @@
       "pu_amort": 3.54377023,
       "pu_total": 12.48591533,
       "parsed_date": "15/05/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 42,
         "Tipo": "Pagamento",
@@ -16658,7 +16662,7 @@
       "pu_amort": 3.56903942,
       "pu_total": 12.54499118,
       "parsed_date": "15/06/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 43,
         "Tipo": "Pagamento",
@@ -16707,7 +16711,7 @@
       "pu_amort": 3.58334524,
       "pu_total": 13.46770285,
       "parsed_date": "15/07/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 44,
         "Tipo": "Pagamento",
@@ -16756,7 +16760,7 @@
       "pu_amort": 3.59433968,
       "pu_total": 13.92758366,
       "parsed_date": "17/08/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 45,
         "Tipo": "Pagamento",
@@ -16805,7 +16809,7 @@
       "pu_amort": 3.60337659,
       "pu_total": 12.57614681,
       "parsed_date": "15/09/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 46,
         "Tipo": "Pagamento",
@@ -16854,7 +16858,7 @@
       "pu_amort": 3.60561924,
       "pu_total": 13.00389444,
       "parsed_date": "15/10/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Evento": 47,
         "Tipo": "Pagamento",
@@ -16897,11 +16901,23 @@
   "selected_variant": "",
   "comparison": [
     {
+      "id": "axsgoias",
+      "label": "AXS Goiás",
+      "full_name": "AXS Goias - Emissao 1 / Serie UNICA",
+      "current_balance": 233574009.62,
+      "next_payment_amount": 13136438.24,
+      "total_interest": 331968335.39,
+      "total_amortization": 407554618.16,
+      "event_count": 35,
+      "indexer": "IPCA + 10,40%",
+      "badge": "DEB"
+    },
+    {
       "id": "axs11",
       "label": "AXS 11",
       "full_name": "AXS 11 - Emissao 1 / Serie UNICA",
       "current_balance": 181719598.88,
-      "next_payment_amount": 0.0,
+      "next_payment_amount": 14579766.21,
       "total_interest": 244222593.15,
       "total_amortization": 321120832.55,
       "event_count": 32,
@@ -16945,6 +16961,18 @@
       "badge": "DEB"
     },
     {
+      "id": "axs01",
+      "label": "AXS 01",
+      "full_name": "AXS 01 - Refi / 2 Series",
+      "current_balance": 116119132.61,
+      "next_payment_amount": 8523949.26,
+      "total_interest": 155424861.39,
+      "total_amortization": 212163642.74,
+      "event_count": 32,
+      "indexer": "IPCA + 9,35% / 10,97%",
+      "badge": "DEB"
+    },
+    {
       "id": "axs09",
       "label": "AXS 09",
       "full_name": "AXS ENERGIA 09 - Emissao 1 / Serie UNICA",
@@ -16954,6 +16982,18 @@
       "total_amortization": 154779297.21,
       "event_count": 28,
       "indexer": "IPCA + 10,98%",
+      "badge": "DEB"
+    },
+    {
+      "id": "axs05",
+      "label": "AXS 05",
+      "full_name": "AXS 05 - 2a Emissao / 2 Series",
+      "current_balance": 92056612.42,
+      "next_payment_amount": 8055402.15,
+      "total_interest": 110876445.22,
+      "total_amortization": 161500374.52,
+      "event_count": 32,
+      "indexer": "IPCA + 9,47% / 10,97%",
       "badge": "DEB"
     },
     {
@@ -16993,23 +17033,11 @@
       "badge": "DEB"
     },
     {
-      "id": "axs05",
-      "label": "AXS 05",
-      "full_name": "AXS 05 - 2a Emissao / 2 Series",
-      "current_balance": 68246433.55,
-      "next_payment_amount": 0.0,
-      "total_interest": 110876445.22,
-      "total_amortization": 161500374.52,
-      "event_count": 64,
-      "indexer": "IPCA + 9,47% / 10,97%",
-      "badge": "DEB"
-    },
-    {
       "id": "axs06",
       "label": "AXS 06",
       "full_name": "AXS 06 - Emissao 2 / Serie UNICA",
       "current_balance": 32379016.05,
-      "next_payment_amount": 0.0,
+      "next_payment_amount": 1925105.51,
       "total_interest": 50236413.26,
       "total_amortization": 61396363.32,
       "event_count": 34,
@@ -17017,6 +17045,6 @@
       "badge": "DEB"
     }
   ],
-  "generated_at": "04/05/2026 16:56:00",
-  "generated_at_iso": "2026-05-04T16:56:00"
+  "generated_at": "05/05/2026 10:26:32",
+  "generated_at_iso": "2026-05-05T10:26:32"
 }

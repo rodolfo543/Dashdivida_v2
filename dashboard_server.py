@@ -18,7 +18,24 @@ from urllib.parse import parse_qs, urlparse
 DASH_DIR = Path(__file__).resolve().parent
 PROJECT_DIR = DASH_DIR
 PORTFOLIO_ID = "geral"
-AXS02_DEFAULT_VARIANT = "total"
+DEFAULT_VARIANT_ID = "total"
+VARIANT_OPTIONS_MAP: dict[str, list[dict[str, str]]] = {
+    "axs01": [
+        {"id": "total", "label": "Total"},
+        {"id": "primeira", "label": "1a Serie"},
+        {"id": "segunda", "label": "2a Serie"},
+    ],
+    "axs02": [
+        {"id": "total", "label": "Total"},
+        {"id": "cri", "label": "CRI"},
+        {"id": "deb", "label": "Debenture"},
+    ],
+    "axs05": [
+        {"id": "total", "label": "Total"},
+        {"id": "primeira", "label": "1a Serie"},
+        {"id": "segunda", "label": "2a Serie"},
+    ],
+}
 
 
 @dataclass(frozen=True)
@@ -114,6 +131,10 @@ def first_number(*values: Any) -> float | None:
 
 def slug_component(value: Any) -> str:
     text = text_or_default(value).strip().upper()
+    if "PRIMEIRA" in text or "1A SERIE" in text or "1ª SERIE" in text or "AXSA11" in text or "AXSC12" in text:
+        return "primeira"
+    if "SEGUNDA" in text or "2A SERIE" in text or "2ª SERIE" in text or "AXSA21" in text or "AXSC22" in text:
+        return "segunda"
     if "DEB" in text:
         return "deb"
     if "CRI" in text:
@@ -122,11 +143,21 @@ def slug_component(value: Any) -> str:
 
 
 def pretty_component(value: str) -> str:
-    return {"cri": "CRI", "deb": "Debenture", "total": "Total"}.get(value, value or "-")
+    return {
+        "cri": "CRI",
+        "deb": "Debenture",
+        "total": "Total",
+        "primeira": "1a Serie",
+        "segunda": "2a Serie",
+    }.get(value, value or "-")
 
 
 def normalize_base_row(row: dict[str, Any]) -> dict[str, Any]:
-    component = slug_component(row.get("Instrumento"))
+    instrument_label = text_or_default(
+        row.get("Instrumento") or row.get("Serie") or row.get("Ticker") or row.get("Codigo_IF"),
+        "Fluxo",
+    )
+    component = slug_component(row.get("Instrumento") or row.get("Serie") or row.get("Ticker"))
     payment = first_number(
         row.get("PMT_Total"),
         row.get("Total"),
@@ -150,7 +181,7 @@ def normalize_base_row(row: dict[str, Any]) -> dict[str, Any]:
 
     return {
         "date": text_or_default(row.get("Data_Pgto") or row.get("Data") or row.get("Data_Ref"), "-"),
-        "label": text_or_default(row.get("Evento") or row.get("Tipo") or row.get("Instrumento"), "Fluxo"),
+        "label": text_or_default(row.get("Evento") or row.get("Tipo_Evento") or row.get("Tipo") or instrument_label, "Fluxo"),
         "component": component,
         "component_label": pretty_component(component),
         "payment": payment,
@@ -164,7 +195,7 @@ def normalize_base_row(row: dict[str, Any]) -> dict[str, Any]:
         "pu_amort": pu_amort,
         "pu_total": pu_total,
         "parsed_date": parsed_date,
-        "sort_key": text_or_default(row.get("Codigo_IF") or row.get("ISIN") or row.get("Instrumento") or ""),
+        "sort_key": text_or_default(row.get("Codigo_IF") or row.get("Ticker") or row.get("ISIN") or instrument_label),
         "raw": decimal_to_float(row),
     }
 
@@ -203,12 +234,26 @@ def get_current_row(series: list[dict[str, Any]]) -> dict[str, Any] | None:
 
 def build_summary(series: list[dict[str, Any]]) -> dict[str, Any]:
     current_row = get_current_row(series)
-    next_item = None
     today = datetime.now().date()
+    next_item = None
     for item in series:
-        if item["parsed_date"] and item["parsed_date"] >= today:
+        if item["parsed_date"] and item["parsed_date"] >= today and (item["payment"] or 0) > 0:
             next_item = item
             break
+    if next_item is None:
+        for item in series:
+            if item["parsed_date"] and item["parsed_date"] >= today:
+                next_item = item
+                break
+    future_rows = [item for item in series if item["parsed_date"] and item["parsed_date"] >= today and (item["payment"] or 0) > 0]
+    total_future_payment = sum(item["payment"] for item in future_rows)
+    total_future_amort = sum(item["amortization"] for item in future_rows)
+    duration_years = None
+    wal_years = None
+    if total_future_payment > 0:
+        duration_years = sum((((item["parsed_date"] - today).days) / 365.25) * item["payment"] for item in future_rows) / total_future_payment
+    if total_future_amort > 0:
+        wal_years = sum((((item["parsed_date"] - today).days) / 365.25) * item["amortization"] for item in future_rows) / total_future_amort
     return {
         "current_balance": current_row["balance"] if current_row else None,
         "current_principal": current_row["principal"] if current_row else None,
@@ -222,8 +267,12 @@ def build_summary(series: list[dict[str, Any]]) -> dict[str, Any]:
         "event_count": len(series),
         "next_payment_date": next_item["date"] if next_item else None,
         "next_payment_amount": next_item["payment"] if next_item else None,
+        "next_interest_amount": next_item["interest"] if next_item else None,
+        "next_amortization_amount": next_item["amortization"] if next_item else None,
         "last_event_date": current_row["date"] if current_row else None,
         "final_balance": series[-1]["balance"] if series else None,
+        "duration_years": duration_years,
+        "wal_years": wal_years,
     }
 
 
@@ -384,7 +433,7 @@ def load_axs_internal_formula(module: Any, primary_source_label: str) -> dict[st
     }
 
 
-def aggregate_variant_series(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+def aggregate_variant_series(rows: list[dict[str, Any]], total_label: str = "Total consolidado") -> list[dict[str, Any]]:
     ordered_rows = sorted(rows, key=lambda item: (item["parsed_date"] or date.max, item["component"], item["label"]))
     balances: dict[str, float] = {}
     principals: dict[str, float] = {}
@@ -402,7 +451,7 @@ def aggregate_variant_series(rows: list[dict[str, Any]]) -> list[dict[str, Any]]
                 principals[item["component"]] = item["principal"]
         grouped.append({
             "date": current_date.strftime("%d/%m/%Y"),
-            "label": "Total CRI + Debenture",
+            "label": total_label,
             "component": "total",
             "component_label": "Total",
             "payment": sum(item["payment"] for item in bucket),
@@ -433,6 +482,17 @@ def aggregate_variant_series(rows: list[dict[str, Any]]) -> list[dict[str, Any]]
     return finalize_series(grouped)
 
 
+def variant_options_for(operation_id: str) -> list[dict[str, str]]:
+    return deepcopy(VARIANT_OPTIONS_MAP.get(operation_id, []))
+
+
+def default_variant_for(operation_id: str, options: list[dict[str, str]] | None = None) -> str:
+    variant_options = options if options is not None else variant_options_for(operation_id)
+    if variant_options:
+        return variant_options[0]["id"]
+    return ""
+
+
 def make_variant_payload(series: list[dict[str, Any]], table_series: list[dict[str, Any]], operation_overrides: dict[str, Any], meta: dict[str, Any]) -> dict[str, Any]:
     return {
         "series": series,
@@ -441,6 +501,131 @@ def make_variant_payload(series: list[dict[str, Any]], table_series: list[dict[s
         "timeline": build_timeline(series),
         "operation_overrides": operation_overrides,
         "meta": meta,
+    }
+
+
+def load_axs01(module: Any) -> dict[str, Any]:
+    periodo_inicial = module.add_months_periodo(module.periodo_yyyymm(module.DATA_EMISSAO), -1)
+    periodo_final = module.periodo_yyyymm(module.DATA_VENCIMENTO)
+    indices_ipca, fontes_ipca, fonte_ipca = module.preparar_indices_ipca(periodo_inicial, periodo_final)
+
+    detailed_raw: list[dict[str, Any]] = []
+    primeira_raw: list[dict[str, Any]] = []
+    segunda_raw: list[dict[str, Any]] = []
+    for serie in module.SERIES:
+        eventos_serie, _ = module.calcular_serie(serie, indices_ipca, fontes_ipca)
+        enriched = []
+        for row in eventos_serie:
+            new_row = dict(row)
+            new_row["Instrumento"] = row.get("Serie", serie.nome)
+            new_row["Evento"] = row.get("Tipo_Evento", "Evento")
+            enriched.append(new_row)
+        detailed_raw.extend(enriched)
+        if "PRIMEIRA" in serie.nome.upper():
+            primeira_raw.extend(enriched)
+        else:
+            segunda_raw.extend(enriched)
+
+    detailed_rows = normalize_series(detailed_raw)
+    primeira_rows = normalize_series(primeira_raw)
+    segunda_rows = normalize_series(segunda_raw)
+    total_rows = aggregate_variant_series(detailed_rows, "Total 1a + 2a Serie")
+    base_meta = {
+        "primary_source": f"Fonte IPCA: {fonte_ipca}",
+        "notes": "AXS 01 permite visualizar o consolidado ou cada serie separadamente.",
+    }
+
+    return {
+        "module_ref": module,
+        "series": total_rows,
+        "table_series": detailed_rows,
+        "summary": build_summary(total_rows),
+        "timeline": build_timeline(total_rows),
+        "meta": base_meta,
+        "variant_options": variant_options_for("axs01"),
+        "variants": {
+            "total": make_variant_payload(
+                total_rows,
+                detailed_rows,
+                {
+                    "full_name": "AXS 01 - Refi / 2 Series",
+                    "badge": "DEB",
+                    "indexer": "IPCA + 9,35% / 10,97%",
+                    "description": "Visao consolidada das duas series da AXS 01 Refi.",
+                    "issuer": "AXS ENERGIA UNIDADE 01 LTDA.",
+                    "metadata": {
+                        "issue_date": "24/02/2026",
+                        "maturity_date": "15/02/2042",
+                        "quantity_emitted": "108800",
+                        "volume_emitted": "108800000",
+                        "pu_issue": "1000",
+                        "payment_frequency": "Semestral",
+                        "amortization_frequency": "Semestral",
+                        "distribution": "Res CVM 160",
+                        "risk_type": "Duas series",
+                        "guarantees": "Conforme documentos da emissao.",
+                        "remuneration_label": "IPCA + 9,3515% / 10,9659%",
+                        "code_if": "AXSA11 / AXSA21",
+                        "isin": "BRAXSADBS001 / BRAXSADBS019",
+                    },
+                },
+                base_meta,
+            ),
+            "primeira": make_variant_payload(
+                primeira_rows,
+                primeira_rows,
+                {
+                    "full_name": "AXS 01 - Refi / 1a Serie",
+                    "badge": "DEB",
+                    "indexer": "IPCA + 9,3515%",
+                    "description": "Visualizacao isolada da 1a serie da AXS 01 Refi.",
+                    "issuer": "AXS ENERGIA UNIDADE 01 LTDA.",
+                    "metadata": {
+                        "issue_date": "24/02/2026",
+                        "maturity_date": "15/02/2042",
+                        "quantity_emitted": "86000",
+                        "volume_emitted": "86000000",
+                        "pu_issue": "1000",
+                        "payment_frequency": "Semestral",
+                        "amortization_frequency": "Semestral",
+                        "distribution": "Res CVM 160",
+                        "risk_type": "Serie 1",
+                        "guarantees": "Conforme documentos da emissao.",
+                        "remuneration_label": "IPCA + 9,3515%",
+                        "code_if": "AXSA11",
+                        "isin": "BRAXSADBS001",
+                    },
+                },
+                base_meta,
+            ),
+            "segunda": make_variant_payload(
+                segunda_rows,
+                segunda_rows,
+                {
+                    "full_name": "AXS 01 - Refi / 2a Serie",
+                    "badge": "DEB",
+                    "indexer": "IPCA + 10,9659%",
+                    "description": "Visualizacao isolada da 2a serie da AXS 01 Refi.",
+                    "issuer": "AXS ENERGIA UNIDADE 01 LTDA.",
+                    "metadata": {
+                        "issue_date": "24/02/2026",
+                        "maturity_date": "15/02/2042",
+                        "quantity_emitted": "22800",
+                        "volume_emitted": "22800000",
+                        "pu_issue": "1000",
+                        "payment_frequency": "Semestral",
+                        "amortization_frequency": "Semestral",
+                        "distribution": "Res CVM 160",
+                        "risk_type": "Serie 2",
+                        "guarantees": "Conforme documentos da emissao.",
+                        "remuneration_label": "IPCA + 10,9659%",
+                        "code_if": "AXSA21",
+                        "isin": "BRAXSADBS019",
+                    },
+                },
+                base_meta,
+            ),
+        },
     }
 
 
@@ -456,7 +641,7 @@ def load_axs02(module: Any) -> dict[str, Any]:
     detailed_rows = normalize_series(eventos)
     cri_rows = [row for row in detailed_rows if row["component"] == "cri"]
     deb_rows = [row for row in detailed_rows if row["component"] == "deb"]
-    total_rows = aggregate_variant_series(detailed_rows)
+    total_rows = aggregate_variant_series(detailed_rows, "Total CRI + Debenture")
     base_meta = {
         "primary_source": f"Fonte IPCA: {fonte_ipca}",
         "notes": "AXS 02 permite visualizar total consolidado, CRI isolado ou Debenture isolada.",
@@ -469,11 +654,7 @@ def load_axs02(module: Any) -> dict[str, Any]:
         "summary": build_summary(total_rows),
         "timeline": build_timeline(total_rows),
         "meta": base_meta,
-        "variant_options": [
-            {"id": "total", "label": "Total"},
-            {"id": "cri", "label": "CRI"},
-            {"id": "deb", "label": "Debenture"},
-        ],
+        "variant_options": variant_options_for("axs02"),
         "variants": {
             "total": make_variant_payload(
                 total_rows,
@@ -549,6 +730,111 @@ def load_axs02(module: Any) -> dict[str, Any]:
                         "remuneration_label": "IPCA + 11%",
                         "code_if": "AXSD11",
                         "isin": "BRAXSDDBS005",
+                    },
+                },
+                base_meta,
+            ),
+        },
+    }
+
+
+def load_axs05(module: Any) -> dict[str, Any]:
+    fluxos, fonte = module.calcular_fluxos_series()
+    primeira_rows = normalize_series(fluxos["primeira"])
+    segunda_rows = normalize_series(fluxos["segunda"])
+    detailed_rows = normalize_series([linha for linhas in fluxos.values() for linha in linhas])
+    total_rows = aggregate_variant_series(detailed_rows, "Total 1a + 2a Serie")
+    base_meta = {
+        "primary_source": f"Fonte IPCA: {fonte}",
+        "notes": "AXS 05 permite visualizar o consolidado ou cada serie separadamente.",
+    }
+
+    return {
+        "module_ref": module,
+        "series": total_rows,
+        "table_series": detailed_rows,
+        "summary": build_summary(total_rows),
+        "timeline": build_timeline(total_rows),
+        "meta": base_meta,
+        "variant_options": variant_options_for("axs05"),
+        "variants": {
+            "total": make_variant_payload(
+                total_rows,
+                detailed_rows,
+                {
+                    "full_name": "AXS 05 - 2a Emissao / 2 Series",
+                    "badge": "DEB",
+                    "indexer": "IPCA + 9,47% / 10,97%",
+                    "description": "Visao consolidada da AXS 05 com as duas series somadas.",
+                    "issuer": "AXS ENERGIA UNIDADE 05 S.A.",
+                    "metadata": {
+                        "issue_date": "24/02/2026",
+                        "maturity_date": "15/02/2042",
+                        "quantity_emitted": "86200",
+                        "volume_emitted": "86200000",
+                        "pu_issue": "1000",
+                        "payment_frequency": "Semestral",
+                        "amortization_frequency": "Semestral",
+                        "distribution": "Res CVM 160",
+                        "risk_type": "Duas series",
+                        "guarantees": "Conforme documentos da emissao.",
+                        "remuneration_label": "IPCA + 9,4659% / 10,9659%",
+                        "code_if": "AXSC12 / AXSC22",
+                        "isin": "BRAXSCDBS015 / BRAXSCDBS023",
+                    },
+                },
+                base_meta,
+            ),
+            "primeira": make_variant_payload(
+                primeira_rows,
+                primeira_rows,
+                {
+                    "full_name": "AXS 05 - 2a Emissao / 1a Serie",
+                    "badge": "DEB",
+                    "indexer": "IPCA + 9,4659%",
+                    "description": "Visualizacao isolada da 1a serie da AXS 05.",
+                    "issuer": "AXS ENERGIA UNIDADE 05 S.A.",
+                    "metadata": {
+                        "issue_date": "24/02/2026",
+                        "maturity_date": "15/02/2042",
+                        "quantity_emitted": "64000",
+                        "volume_emitted": "64000000",
+                        "pu_issue": "1000",
+                        "payment_frequency": "Semestral",
+                        "amortization_frequency": "Semestral",
+                        "distribution": "Res CVM 160",
+                        "risk_type": "Serie 1",
+                        "guarantees": "Conforme documentos da emissao.",
+                        "remuneration_label": "IPCA + 9,4659%",
+                        "code_if": "AXSC12",
+                        "isin": "BRAXSCDBS015",
+                    },
+                },
+                base_meta,
+            ),
+            "segunda": make_variant_payload(
+                segunda_rows,
+                segunda_rows,
+                {
+                    "full_name": "AXS 05 - 2a Emissao / 2a Serie",
+                    "badge": "DEB",
+                    "indexer": "IPCA + 10,9659%",
+                    "description": "Visualizacao isolada da 2a serie da AXS 05.",
+                    "issuer": "AXS ENERGIA UNIDADE 05 S.A.",
+                    "metadata": {
+                        "issue_date": "24/02/2026",
+                        "maturity_date": "15/02/2042",
+                        "quantity_emitted": "22200",
+                        "volume_emitted": "22200000",
+                        "pu_issue": "1000",
+                        "payment_frequency": "Semestral",
+                        "amortization_frequency": "Semestral",
+                        "distribution": "Res CVM 160",
+                        "risk_type": "Serie 2",
+                        "guarantees": "Conforme documentos da emissao.",
+                        "remuneration_label": "IPCA + 10,9659%",
+                        "code_if": "AXSC22",
+                        "isin": "BRAXSCDBS023",
                     },
                 },
                 base_meta,
@@ -635,10 +921,38 @@ def build_portfolio_series(payloads: list[dict[str, Any]]) -> list[dict[str, Any
 
 def comparison_payload(operation_id: str) -> dict[str, Any]:
     payload = deepcopy(compute_operation(operation_id))
-    return apply_variant(payload, AXS02_DEFAULT_VARIANT)
+    return apply_variant(payload, default_variant_for(operation_id, payload.get("variant_options")))
 
 
 OPERATIONS: dict[str, OperationConfig] = {
+    "axs01": OperationConfig(
+        id="axs01",
+        label="AXS 01",
+        full_name="AXS 01 - Refi / 2 Series",
+        badge="DEB",
+        category="Debenture",
+        indexer="IPCA + 9,35% / 10,97%",
+        description="Refinanciamento da AXS 01 com duas series e leitura consolidada ou isolada por serie.",
+        issuer="AXS ENERGIA UNIDADE 01 LTDA.",
+        code_if="AXSA11 / AXSA21",
+        isin="BRAXSADBS001 / BRAXSADBS019",
+        script_path=PROJECT_DIR / "Code final prontos" / "axs01_refi_v1.py",
+        loader=load_axs01,
+        metadata={
+            "issue_date": "24/02/2026",
+            "start_date": "13/03/2026",
+            "maturity_date": "15/02/2042",
+            "quantity_emitted": "108800",
+            "volume_emitted": "108800000",
+            "pu_issue": "1000",
+            "payment_frequency": "Semestral",
+            "amortization_frequency": "Semestral",
+            "distribution": "Res CVM 160",
+            "risk_type": "Duas series",
+            "guarantees": "Conforme documentos da emissao.",
+            "remuneration_label": "IPCA + 9,3515% / 10,9659%",
+        },
+    ),
     "axs02": OperationConfig(
         id="axs02",
         label="AXS 02",
@@ -726,7 +1040,7 @@ OPERATIONS: dict[str, OperationConfig] = {
         code_if="AXSC12 / AXSC22",
         isin="BRAXSCDBS015 / BRAXSCDBS023",
         script_path=PROJECT_DIR / "Code final prontos" / "axs05_v1.py",
-        loader=lambda module: load_axs_standard(module, "Fonte IPCA"),
+        loader=load_axs05,
         metadata={
             "issue_date": "24/02/2026",
             "maturity_date": "15/02/2042",
@@ -876,6 +1190,34 @@ OPERATIONS: dict[str, OperationConfig] = {
             "remuneration_label": "CDI + 6.5%",
         },
     ),
+    "axsgoias": OperationConfig(
+        id="axsgoias",
+        label="AXS Goiás",
+        full_name="AXS Goias - Emissao 1 / Serie UNICA",
+        badge="DEB",
+        category="Debenture",
+        indexer="IPCA + 10,40%",
+        description="Debenture senior da operacao AXS Goias com carencia inicial e amortizacao semestral longa.",
+        issuer="AXS ENERGIA UFV GOIAS SPE S.A.",
+        code_if="AXS311",
+        isin="",
+        script_path=PROJECT_DIR / "Code final prontos" / "axs_goias_v1.py",
+        loader=lambda module: load_axs_standard(module, "Fonte IPCA", "Fonte Focus"),
+        metadata={
+            "issue_date": "15/09/2024",
+            "start_date": "27/09/2024",
+            "maturity_date": "15/12/2041",
+            "quantity_emitted": "196000",
+            "volume_emitted": "196000000",
+            "pu_issue": "1000",
+            "payment_frequency": "Semestral",
+            "amortization_frequency": "Semestral",
+            "distribution": "Res CVM 160",
+            "risk_type": "Senior",
+            "guarantees": "Conforme documentos da emissao e aditamentos da operacao AXS Goias.",
+            "remuneration_label": "IPCA + 10,40%",
+        },
+    ),
     "axs11": OperationConfig(
         id="axs11",
         label="AXS 11",
@@ -968,6 +1310,8 @@ def compute_operation(operation_id: str) -> dict[str, Any]:
     module = load_module(module_name, config.script_path)
     base_payload = config.loader(module)
     if "variants" in base_payload:
+        variant_options = base_payload.get("variant_options", [])
+        default_variant = default_variant_for(config.id, variant_options)
         payload = {
             "operation": build_operation_view(config, base_payload, module)["operation"],
             "series": base_payload["series"],
@@ -975,27 +1319,28 @@ def compute_operation(operation_id: str) -> dict[str, Any]:
             "summary": base_payload["summary"],
             "timeline": base_payload["timeline"],
             "meta": base_payload["meta"],
-            "variant_options": base_payload["variant_options"],
+            "variant_options": variant_options,
             "variants": {},
         }
         for variant_id, variant_payload in base_payload["variants"].items():
+            overrides = variant_payload["operation_overrides"]
             merged_config = OperationConfig(
                 id=config.id,
                 label=config.label,
-                full_name=variant_payload["operation_overrides"].get("full_name", config.full_name),
-                badge=variant_payload["operation_overrides"].get("badge", config.badge),
-                category=config.category,
-                indexer=config.indexer,
-                description=variant_payload["operation_overrides"].get("description", config.description),
-                issuer=variant_payload["operation_overrides"].get("issuer", config.issuer),
+                full_name=overrides.get("full_name", config.full_name),
+                badge=overrides.get("badge", config.badge),
+                category=overrides.get("category", config.category),
+                indexer=overrides.get("indexer", config.indexer),
+                description=overrides.get("description", config.description),
+                issuer=overrides.get("issuer", config.issuer),
                 script_path=config.script_path,
                 loader=config.loader,
-                code_if=variant_payload["operation_overrides"].get("metadata", {}).get("code_if", config.code_if),
-                isin=variant_payload["operation_overrides"].get("metadata", {}).get("isin", config.isin),
-                metadata={**config.metadata, **variant_payload["operation_overrides"].get("metadata", {})},
+                code_if=overrides.get("metadata", {}).get("code_if", config.code_if),
+                isin=overrides.get("metadata", {}).get("isin", config.isin),
+                metadata={**config.metadata, **overrides.get("metadata", {})},
             )
             payload["variants"][variant_id] = build_operation_view(merged_config, variant_payload, module)
-        payload["selected_variant"] = AXS02_DEFAULT_VARIANT
+        payload["selected_variant"] = default_variant
     else:
         payload = build_operation_view(config, base_payload, module)
         payload["variant_options"] = []
@@ -1010,7 +1355,8 @@ def compute_operation(operation_id: str) -> dict[str, Any]:
 def apply_variant(payload: dict[str, Any], variant_id: str) -> dict[str, Any]:
     if not payload.get("variants"):
         return payload
-    selected = payload["variants"].get(variant_id) or payload["variants"][AXS02_DEFAULT_VARIANT]
+    default_variant = payload.get("selected_variant") or next(iter(payload["variants"]))
+    selected = payload["variants"].get(variant_id) or payload["variants"][default_variant]
     merged = deepcopy(payload)
     merged["operation"] = selected["operation"]
     merged["series"] = selected["series"]
@@ -1018,7 +1364,7 @@ def apply_variant(payload: dict[str, Any], variant_id: str) -> dict[str, Any]:
     merged["summary"] = selected["summary"]
     merged["timeline"] = selected["timeline"]
     merged["meta"] = selected["meta"]
-    merged["selected_variant"] = variant_id if variant_id in payload["variants"] else AXS02_DEFAULT_VARIANT
+    merged["selected_variant"] = variant_id if variant_id in payload["variants"] else default_variant
     return merged
 
 
@@ -1026,7 +1372,7 @@ def get_payload(operation_id: str, variant_id: str | None = None) -> dict[str, A
     if operation_id == PORTFOLIO_ID:
         return build_portfolio_payload()
     payload = deepcopy(compute_operation(operation_id))
-    payload = apply_variant(payload, variant_id or AXS02_DEFAULT_VARIANT)
+    payload = apply_variant(payload, variant_id or default_variant_for(operation_id, payload.get("variant_options")))
     payload["comparison"] = build_comparison_rows([comparison_payload(item_id) for item_id in OPERATIONS])
     return payload
 
@@ -1055,11 +1401,7 @@ class DashboardHandler(BaseHTTPRequestHandler):
                     "category": item.category,
                     "indexer": item.indexer,
                     "badge": item.badge,
-                    "variant_options": [
-                        {"id": "total", "label": "Total"},
-                        {"id": "cri", "label": "CRI"},
-                        {"id": "deb", "label": "Debenture"},
-                    ] if item.id == "axs02" else [],
+                    "variant_options": variant_options_for(item.id),
                 }
                 for item in OPERATIONS.values()
             )

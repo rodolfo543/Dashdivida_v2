@@ -125,7 +125,7 @@
       "pu_amort": 1.00299045,
       "pu_total": 5.37951476,
       "parsed_date": "15/05/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2024",
         "Data_Pgto": "15/05/2024",
@@ -171,7 +171,7 @@
       "pu_amort": 1.00760146,
       "pu_total": 9.81130002,
       "parsed_date": "17/06/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2024",
         "Data_Pgto": "17/06/2024",
@@ -217,7 +217,7 @@
       "pu_amort": 1.00971286,
       "pu_total": 9.01867175,
       "parsed_date": "15/07/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2024",
         "Data_Pgto": "15/07/2024",
@@ -263,7 +263,7 @@
       "pu_amort": 1.01354301,
       "pu_total": 10.25507261,
       "parsed_date": "15/08/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2024",
         "Data_Pgto": "15/08/2024",
@@ -309,7 +309,7 @@
       "pu_amort": 1.01333171,
       "pu_total": 9.84066796,
       "parsed_date": "16/09/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2024",
         "Data_Pgto": "16/09/2024",
@@ -355,7 +355,7 @@
       "pu_amort": 1.01777882,
       "pu_total": 9.47076174,
       "parsed_date": "15/10/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2024",
         "Data_Pgto": "15/10/2024",
@@ -401,7 +401,7 @@
       "pu_amort": 1.02346452,
       "pu_total": 10.32765752,
       "parsed_date": "18/11/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2024",
         "Data_Pgto": "18/11/2024",
@@ -447,7 +447,7 @@
       "pu_amort": 1.02744042,
       "pu_total": 8.72960273,
       "parsed_date": "16/12/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2024",
         "Data_Pgto": "16/12/2024",
@@ -493,7 +493,7 @@
       "pu_amort": 1.03276538,
       "pu_total": 9.17586253,
       "parsed_date": "15/01/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2025",
         "Data_Pgto": "15/01/2025",
@@ -539,7 +539,7 @@
       "pu_amort": 1.03439811,
       "pu_total": 10.41005566,
       "parsed_date": "17/02/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2025",
         "Data_Pgto": "17/02/2025",
@@ -585,7 +585,7 @@
       "pu_amort": 1.0479275,
       "pu_total": 8.46665511,
       "parsed_date": "17/03/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2025",
         "Data_Pgto": "17/03/2025",
@@ -631,7 +631,7 @@
       "pu_amort": 7.37744561,
       "pu_total": 16.0774751,
       "parsed_date": "15/04/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2025",
         "Data_Pgto": "15/04/2025",
@@ -677,7 +677,7 @@
       "pu_amort": 7.40963521,
       "pu_total": 15.25582004,
       "parsed_date": "15/05/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2025",
         "Data_Pgto": "15/05/2025",
@@ -723,7 +723,7 @@
       "pu_amort": 7.42860303,
       "pu_total": 16.47766584,
       "parsed_date": "16/06/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2025",
         "Data_Pgto": "16/06/2025",
@@ -769,7 +769,7 @@
       "pu_amort": 7.44640492,
       "pu_total": 15.63005741,
       "parsed_date": "15/07/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2025",
         "Data_Pgto": "15/07/2025",
@@ -815,7 +815,7 @@
       "pu_amort": 7.46598166,
       "pu_total": 16.83891756,
       "parsed_date": "15/08/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2025",
         "Data_Pgto": "15/08/2025",
@@ -861,7 +861,7 @@
       "pu_amort": 7.45719169,
       "pu_total": 15.93996908,
       "parsed_date": "15/09/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2025",
         "Data_Pgto": "15/09/2025",
@@ -907,7 +907,7 @@
       "pu_amort": 7.49364132,
       "pu_total": 16.35918306,
       "parsed_date": "15/10/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2025",
         "Data_Pgto": "15/10/2025",
@@ -953,7 +953,7 @@
       "pu_amort": 7.50021311,
       "pu_total": 16.71024946,
       "parsed_date": "17/11/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2025",
         "Data_Pgto": "17/11/2025",
@@ -999,7 +999,7 @@
       "pu_amort": 7.51372084,
       "pu_total": 15.07288613,
       "parsed_date": "15/12/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2025",
         "Data_Pgto": "15/12/2025",
@@ -1045,7 +1045,7 @@
       "pu_amort": 7.53867292,
       "pu_total": 15.86145149,
       "parsed_date": "15/01/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2026",
         "Data_Pgto": "15/01/2026",
@@ -1091,7 +1091,7 @@
       "pu_amort": 7.56284405,
       "pu_total": 16.24623577,
       "parsed_date": "18/02/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2026",
         "Data_Pgto": "18/02/2026",
@@ -1137,7 +1137,7 @@
       "pu_amort": 7.6161888,
       "pu_total": 14.7103277,
       "parsed_date": "16/03/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2026",
         "Data_Pgto": "16/03/2026",
@@ -1183,7 +1183,7 @@
       "pu_amort": 7.68271258,
       "pu_total": 15.97281488,
       "parsed_date": "15/04/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2026",
         "Data_Pgto": "15/04/2026",
@@ -1229,7 +1229,7 @@
       "pu_amort": 9.94793425,
       "pu_total": 17.83619398,
       "parsed_date": "15/05/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2026",
         "Data_Pgto": "15/05/2026",
@@ -1275,7 +1275,7 @@
       "pu_amort": 9.98804011,
       "pu_total": 17.82839339,
       "parsed_date": "15/06/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2026",
         "Data_Pgto": "15/06/2026",
@@ -1321,7 +1321,7 @@
       "pu_amort": 10.01904837,
       "pu_total": 18.58573788,
       "parsed_date": "15/07/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2026",
         "Data_Pgto": "15/07/2026",
@@ -1367,7 +1367,7 @@
       "pu_amort": 10.04467302,
       "pu_total": 18.93342313,
       "parsed_date": "17/08/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2026",
         "Data_Pgto": "17/08/2026",
@@ -1413,7 +1413,7 @@
       "pu_amort": 10.05137098,
       "pu_total": 17.70140664,
       "parsed_date": "15/09/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2026",
         "Data_Pgto": "15/09/2026",
@@ -1459,7 +1459,7 @@
       "pu_amort": 10.083135,
       "pu_total": 18.05872582,
       "parsed_date": "15/10/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2026",
         "Data_Pgto": "15/10/2026",
@@ -1505,7 +1505,7 @@
       "pu_amort": 10.10704987,
       "pu_total": 18.01693919,
       "parsed_date": "16/11/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2026",
         "Data_Pgto": "16/11/2026",
@@ -1551,7 +1551,7 @@
       "pu_amort": 10.12914168,
       "pu_total": 17.59689667,
       "parsed_date": "15/12/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2026",
         "Data_Pgto": "15/12/2026",
@@ -1597,7 +1597,7 @@
       "pu_amort": 10.17235411,
       "pu_total": 17.9633162,
       "parsed_date": "15/01/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2027",
         "Data_Pgto": "15/01/2027",
@@ -1643,7 +1643,7 @@
       "pu_amort": 10.20969666,
       "pu_total": 17.20478576,
       "parsed_date": "15/02/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2027",
         "Data_Pgto": "15/02/2027",
@@ -1689,7 +1689,7 @@
       "pu_amort": 10.26993815,
       "pu_total": 17.59639802,
       "parsed_date": "15/03/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2027",
         "Data_Pgto": "15/03/2027",
@@ -1735,7 +1735,7 @@
       "pu_amort": 10.30403937,
       "pu_total": 18.30274134,
       "parsed_date": "15/04/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2027",
         "Data_Pgto": "15/04/2027",
@@ -1781,7 +1781,7 @@
       "pu_amort": 10.34351741,
       "pu_total": 17.91971637,
       "parsed_date": "17/05/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2027",
         "Data_Pgto": "17/05/2027",
@@ -1827,7 +1827,7 @@
       "pu_amort": 10.37083496,
       "pu_total": 17.52176116,
       "parsed_date": "15/06/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2027",
         "Data_Pgto": "15/06/2027",
@@ -1873,7 +1873,7 @@
       "pu_amort": 10.39601051,
       "pu_total": 18.19302463,
       "parsed_date": "15/07/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2027",
         "Data_Pgto": "15/07/2027",
@@ -1919,7 +1919,7 @@
       "pu_amort": 10.41795833,
       "pu_total": 18.1401405,
       "parsed_date": "16/08/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2027",
         "Data_Pgto": "16/08/2027",
@@ -1965,7 +1965,7 @@
       "pu_amort": 10.43552301,
       "pu_total": 17.73057176,
       "parsed_date": "15/09/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2027",
         "Data_Pgto": "15/09/2027",
@@ -2011,7 +2011,7 @@
       "pu_amort": 10.4631349,
       "pu_total": 17.68981295,
       "parsed_date": "15/10/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2027",
         "Data_Pgto": "15/10/2027",
@@ -2057,7 +2057,7 @@
       "pu_amort": 10.49593061,
       "pu_total": 17.31525373,
       "parsed_date": "16/11/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2027",
         "Data_Pgto": "16/11/2027",
@@ -2103,7 +2103,7 @@
       "pu_amort": 11.69461158,
       "pu_total": 18.78843357,
       "parsed_date": "15/12/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2027",
         "Data_Pgto": "15/12/2027",
@@ -2149,7 +2149,7 @@
       "pu_amort": 11.74984733,
       "pu_total": 19.45170651,
       "parsed_date": "17/01/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2028",
         "Data_Pgto": "17/01/2028",
@@ -2195,7 +2195,7 @@
       "pu_amort": 11.79196272,
       "pu_total": 18.74788534,
       "parsed_date": "15/02/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2028",
         "Data_Pgto": "15/02/2028",
@@ -2241,7 +2241,7 @@
       "pu_amort": 11.85605084,
       "pu_total": 18.09139288,
       "parsed_date": "15/03/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2028",
         "Data_Pgto": "15/03/2028",
@@ -2287,7 +2287,7 @@
       "pu_amort": 11.89362403,
       "pu_total": 19.03678025,
       "parsed_date": "17/04/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2028",
         "Data_Pgto": "17/04/2028",
@@ -2333,7 +2333,7 @@
       "pu_amort": 11.93554847,
       "pu_total": 17.71032876,
       "parsed_date": "15/05/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2028",
         "Data_Pgto": "15/05/2028",
@@ -2379,7 +2379,7 @@
       "pu_amort": 11.9710199,
       "pu_total": 19.26964748,
       "parsed_date": "16/06/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2028",
         "Data_Pgto": "16/06/2028",
@@ -2425,7 +2425,7 @@
       "pu_amort": 12.00678066,
       "pu_total": 18.58763381,
       "parsed_date": "17/07/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2028",
         "Data_Pgto": "17/07/2028",
@@ -2471,7 +2471,7 @@
       "pu_amort": 12.04257702,
       "pu_total": 18.5424226,
       "parsed_date": "15/08/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2028",
         "Data_Pgto": "15/08/2028",
@@ -2517,7 +2517,7 @@
       "pu_amort": 12.07815607,
       "pu_total": 18.80341979,
       "parsed_date": "15/09/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2028",
         "Data_Pgto": "15/09/2028",
@@ -2563,7 +2563,7 @@
       "pu_amort": 12.11402439,
       "pu_total": 18.14730981,
       "parsed_date": "16/10/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2028",
         "Data_Pgto": "16/10/2028",
@@ -2609,7 +2609,7 @@
       "pu_amort": 12.150638,
       "pu_total": 18.40420927,
       "parsed_date": "16/11/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2028",
         "Data_Pgto": "16/11/2028",
@@ -2655,7 +2655,7 @@
       "pu_amort": 12.18692493,
       "pu_total": 18.0623144,
       "parsed_date": "15/12/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2028",
         "Data_Pgto": "15/12/2028",
@@ -2701,7 +2701,7 @@
       "pu_amort": 12.22332368,
       "pu_total": 17.72810139,
       "parsed_date": "15/01/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2029",
         "Data_Pgto": "15/01/2029",
@@ -2747,7 +2747,7 @@
       "pu_amort": 12.25817175,
       "pu_total": 18.25986745,
       "parsed_date": "15/02/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2029",
         "Data_Pgto": "15/02/2029",
@@ -2793,7 +2793,7 @@
       "pu_amort": 12.29317237,
       "pu_total": 17.92654321,
       "parsed_date": "15/03/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2029",
         "Data_Pgto": "15/03/2029",
@@ -2839,7 +2839,7 @@
       "pu_amort": 12.32865351,
       "pu_total": 18.158845,
       "parsed_date": "16/04/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2029",
         "Data_Pgto": "16/04/2029",
@@ -2885,7 +2885,7 @@
       "pu_amort": 12.36420402,
       "pu_total": 17.83323875,
       "parsed_date": "15/05/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2029",
         "Data_Pgto": "15/05/2029",
@@ -2931,7 +2931,7 @@
       "pu_amort": 12.39941515,
       "pu_total": 18.32646219,
       "parsed_date": "15/06/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2029",
         "Data_Pgto": "15/06/2029",
@@ -2977,7 +2977,7 @@
       "pu_amort": 12.43521419,
       "pu_total": 18.00407062,
       "parsed_date": "16/07/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2029",
         "Data_Pgto": "16/07/2029",
@@ -3023,7 +3023,7 @@
       "pu_amort": 12.47045429,
       "pu_total": 18.2132241,
       "parsed_date": "15/08/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2029",
         "Data_Pgto": "15/08/2029",
@@ -3069,7 +3069,7 @@
       "pu_amort": 12.50662847,
       "pu_total": 18.15639592,
       "parsed_date": "17/09/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2029",
         "Data_Pgto": "17/09/2029",
@@ -3115,7 +3115,7 @@
       "pu_amort": 12.54252914,
       "pu_total": 17.33819368,
       "parsed_date": "15/10/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2029",
         "Data_Pgto": "15/10/2029",
@@ -3161,7 +3161,7 @@
       "pu_amort": 12.57825614,
       "pu_total": 18.04026576,
       "parsed_date": "16/11/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2029",
         "Data_Pgto": "16/11/2029",
@@ -3207,7 +3207,7 @@
       "pu_amort": 12.61447158,
       "pu_total": 17.49185861,
       "parsed_date": "17/12/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2029",
         "Data_Pgto": "17/12/2029",
@@ -3253,7 +3253,7 @@
       "pu_amort": 12.65052611,
       "pu_total": 17.20083026,
       "parsed_date": "15/01/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2030",
         "Data_Pgto": "15/01/2030",
@@ -3299,7 +3299,7 @@
       "pu_amort": 12.68695872,
       "pu_total": 18.09927833,
       "parsed_date": "15/02/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2030",
         "Data_Pgto": "15/02/2030",
@@ -3345,7 +3345,7 @@
       "pu_amort": 12.7236212,
       "pu_total": 16.87623403,
       "parsed_date": "15/03/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2030",
         "Data_Pgto": "15/03/2030",
@@ -3391,7 +3391,7 @@
       "pu_amort": 12.76031546,
       "pu_total": 17.51521806,
       "parsed_date": "15/04/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2030",
         "Data_Pgto": "15/04/2030",
@@ -3437,7 +3437,7 @@
       "pu_amort": 12.79679425,
       "pu_total": 17.23556397,
       "parsed_date": "15/05/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2030",
         "Data_Pgto": "15/05/2030",
@@ -3483,7 +3483,7 @@
       "pu_amort": 12.83330882,
       "pu_total": 17.83811119,
       "parsed_date": "17/06/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2030",
         "Data_Pgto": "17/06/2030",
@@ -3529,7 +3529,7 @@
       "pu_amort": 12.87000489,
       "pu_total": 16.9157352,
       "parsed_date": "15/07/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2030",
         "Data_Pgto": "15/07/2030",
@@ -3575,7 +3575,7 @@
       "pu_amort": 12.90744726,
       "pu_total": 17.70471218,
       "parsed_date": "15/08/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2030",
         "Data_Pgto": "15/08/2030",
@@ -3621,7 +3621,7 @@
       "pu_amort": 12.94449963,
       "pu_total": 17.43212283,
       "parsed_date": "16/09/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2030",
         "Data_Pgto": "16/09/2030",
@@ -3667,7 +3667,7 @@
       "pu_amort": 12.9815439,
       "pu_total": 17.16816621,
       "parsed_date": "15/10/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2030",
         "Data_Pgto": "15/10/2030",
@@ -3713,7 +3713,7 @@
       "pu_amort": 13.01880114,
       "pu_total": 17.49995707,
       "parsed_date": "18/11/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2030",
         "Data_Pgto": "18/11/2030",
@@ -3759,7 +3759,7 @@
       "pu_amort": 13.05585469,
       "pu_total": 16.66670404,
       "parsed_date": "16/12/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2030",
         "Data_Pgto": "16/12/2030",
@@ -3805,7 +3805,7 @@
       "pu_amort": 13.09358822,
       "pu_total": 16.80198373,
       "parsed_date": "15/01/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2031",
         "Data_Pgto": "15/01/2031",
@@ -3851,7 +3851,7 @@
       "pu_amort": 13.15257624,
       "pu_total": 17.31856716,
       "parsed_date": "17/02/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2031",
         "Data_Pgto": "17/02/2031",
@@ -3897,7 +3897,7 @@
       "pu_amort": 13.21167994,
       "pu_total": 16.38888521,
       "parsed_date": "17/03/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2031",
         "Data_Pgto": "17/03/2031",
@@ -3943,7 +3943,7 @@
       "pu_amort": 13.27115509,
       "pu_total": 16.71309481,
       "parsed_date": "15/04/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2031",
         "Data_Pgto": "15/04/2031",
@@ -3989,7 +3989,7 @@
       "pu_amort": 13.33098782,
       "pu_total": 16.68235965,
       "parsed_date": "15/05/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2031",
         "Data_Pgto": "15/05/2031",
@@ -4035,7 +4035,7 @@
       "pu_amort": 13.39089633,
       "pu_total": 16.81448959,
       "parsed_date": "16/06/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2031",
         "Data_Pgto": "16/06/2031",
@@ -4081,7 +4081,7 @@
       "pu_amort": 13.4511302,
       "pu_total": 16.77774313,
       "parsed_date": "15/07/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2031",
         "Data_Pgto": "15/07/2031",
@@ -4127,7 +4127,7 @@
       "pu_amort": 13.51155728,
       "pu_total": 17.04914536,
       "parsed_date": "15/08/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2031",
         "Data_Pgto": "15/08/2031",
@@ -4173,7 +4173,7 @@
       "pu_amort": 13.57241678,
       "pu_total": 16.70223736,
       "parsed_date": "15/09/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2031",
         "Data_Pgto": "15/09/2031",
@@ -4219,7 +4219,7 @@
       "pu_amort": 13.63345284,
       "pu_total": 16.80836284,
       "parsed_date": "15/10/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2031",
         "Data_Pgto": "15/10/2031",
@@ -4265,7 +4265,7 @@
       "pu_amort": 13.69497298,
       "pu_total": 16.90442564,
       "parsed_date": "17/11/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2031",
         "Data_Pgto": "17/11/2031",
@@ -4311,7 +4311,7 @@
       "pu_amort": 13.75627956,
       "pu_total": 16.31343419,
       "parsed_date": "15/12/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2031",
         "Data_Pgto": "15/12/2031",
@@ -4357,7 +4357,7 @@
       "pu_amort": 13.81836555,
       "pu_total": 16.54308647,
       "parsed_date": "15/01/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2032",
         "Data_Pgto": "15/01/2032",
@@ -4403,7 +4403,7 @@
       "pu_amort": 13.88057423,
       "pu_total": 16.37627719,
       "parsed_date": "16/02/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2032",
         "Data_Pgto": "16/02/2032",
@@ -4449,7 +4449,7 @@
       "pu_amort": 13.94287756,
       "pu_total": 16.33888439,
       "parsed_date": "15/03/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2032",
         "Data_Pgto": "15/03/2032",
@@ -4495,7 +4495,7 @@
       "pu_amort": 14.00580413,
       "pu_total": 16.53170664,
       "parsed_date": "15/04/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2032",
         "Data_Pgto": "15/04/2032",
@@ -4541,7 +4541,7 @@
       "pu_amort": 14.06862306,
       "pu_total": 16.37253408,
       "parsed_date": "17/05/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2032",
         "Data_Pgto": "17/05/2032",
@@ -4587,7 +4587,7 @@
       "pu_amort": 14.13193512,
       "pu_total": 16.22314319,
       "parsed_date": "15/06/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2032",
         "Data_Pgto": "15/06/2032",
@@ -4633,7 +4633,7 @@
       "pu_amort": 14.19560642,
       "pu_total": 16.38292531,
       "parsed_date": "15/07/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2032",
         "Data_Pgto": "15/07/2032",
@@ -4679,7 +4679,7 @@
       "pu_amort": 21.38919702,
       "pu_total": 23.4615205,
       "parsed_date": "16/08/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2032",
         "Data_Pgto": "16/08/2032",
@@ -4725,7 +4725,7 @@
       "pu_amort": 21.48561937,
       "pu_total": 23.29273952,
       "parsed_date": "15/09/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2032",
         "Data_Pgto": "15/09/2032",
@@ -4771,7 +4771,7 @@
       "pu_amort": 21.58222093,
       "pu_total": 23.21714959,
       "parsed_date": "15/10/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2032",
         "Data_Pgto": "15/10/2032",
@@ -4817,7 +4817,7 @@
       "pu_amort": 21.67937703,
       "pu_total": 23.07067392,
       "parsed_date": "16/11/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2032",
         "Data_Pgto": "16/11/2032",
@@ -4863,7 +4863,7 @@
       "pu_amort": 11.61440519,
       "pu_total": 12.90018226,
       "parsed_date": "15/12/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2032",
         "Data_Pgto": "15/12/2032",
@@ -4909,7 +4909,7 @@
       "pu_amort": 11.66666912,
       "pu_total": 12.97499674,
       "parsed_date": "17/01/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2033",
         "Data_Pgto": "17/01/2033",
@@ -4955,7 +4955,7 @@
       "pu_amort": 11.71912955,
       "pu_total": 12.82067367,
       "parsed_date": "15/02/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2033",
         "Data_Pgto": "15/02/2033",
@@ -5001,7 +5001,7 @@
       "pu_amort": 11.77185242,
       "pu_total": 12.6354629,
       "parsed_date": "15/03/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2033",
         "Data_Pgto": "15/03/2033",
@@ -5047,7 +5047,7 @@
       "pu_amort": 11.82481066,
       "pu_total": 12.82612803,
       "parsed_date": "18/04/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2033",
         "Data_Pgto": "18/04/2033",
@@ -5093,7 +5093,7 @@
       "pu_amort": 11.87802374,
       "pu_total": 12.61850678,
       "parsed_date": "16/05/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2033",
         "Data_Pgto": "16/05/2033",
@@ -5139,7 +5139,7 @@
       "pu_amort": 11.93148544,
       "pu_total": 12.68880073,
       "parsed_date": "15/06/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2033",
         "Data_Pgto": "15/06/2033",
@@ -5185,7 +5185,7 @@
       "pu_amort": 11.9851806,
       "pu_total": 12.61104343,
       "parsed_date": "15/07/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2033",
         "Data_Pgto": "15/07/2033",
@@ -5231,7 +5231,7 @@
       "pu_amort": 12.03910188,
       "pu_total": 12.56719242,
       "parsed_date": "15/08/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2033",
         "Data_Pgto": "15/08/2033",
@@ -5277,7 +5277,7 @@
       "pu_amort": 7.55831705,
       "pu_total": 8.00828086,
       "parsed_date": "15/09/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2033",
         "Data_Pgto": "15/09/2033",
@@ -5323,7 +5323,7 @@
       "pu_amort": 7.59232791,
       "pu_total": 7.96025095,
       "parsed_date": "17/10/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2033",
         "Data_Pgto": "17/10/2033",
@@ -5369,7 +5369,7 @@
       "pu_amort": 7.62647012,
       "pu_total": 7.91770582,
       "parsed_date": "16/11/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2033",
         "Data_Pgto": "16/11/2033",
@@ -5415,7 +5415,7 @@
       "pu_amort": 7.66080779,
       "pu_total": 7.90403522,
       "parsed_date": "15/12/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2033",
         "Data_Pgto": "15/12/2033",
@@ -5461,7 +5461,7 @@
       "pu_amort": 7.69528032,
       "pu_total": 7.88391711,
       "parsed_date": "16/01/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2034",
         "Data_Pgto": "16/01/2034",
@@ -5507,7 +5507,7 @@
       "pu_amort": 7.72991046,
       "pu_total": 7.85172264,
       "parsed_date": "15/02/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2034",
         "Data_Pgto": "15/02/2034",
@@ -5553,7 +5553,7 @@
       "pu_amort": 6.21174487,
       "pu_total": 6.2562042,
       "parsed_date": "15/03/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2034",
         "Data_Pgto": "15/03/2034",
@@ -5601,7 +5601,7 @@
       "pu_amort": 1.00299045,
       "pu_total": 5.37951476,
       "parsed_date": "15/05/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2024",
         "Data_Pgto": "15/05/2024",
@@ -5647,7 +5647,7 @@
       "pu_amort": 1.00760146,
       "pu_total": 9.81130002,
       "parsed_date": "17/06/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2024",
         "Data_Pgto": "17/06/2024",
@@ -5693,7 +5693,7 @@
       "pu_amort": 1.00971286,
       "pu_total": 9.01867175,
       "parsed_date": "15/07/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2024",
         "Data_Pgto": "15/07/2024",
@@ -5739,7 +5739,7 @@
       "pu_amort": 1.01354301,
       "pu_total": 10.25507261,
       "parsed_date": "15/08/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2024",
         "Data_Pgto": "15/08/2024",
@@ -5785,7 +5785,7 @@
       "pu_amort": 1.01333171,
       "pu_total": 9.84066796,
       "parsed_date": "16/09/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2024",
         "Data_Pgto": "16/09/2024",
@@ -5831,7 +5831,7 @@
       "pu_amort": 1.01777882,
       "pu_total": 9.47076174,
       "parsed_date": "15/10/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2024",
         "Data_Pgto": "15/10/2024",
@@ -5877,7 +5877,7 @@
       "pu_amort": 1.02346452,
       "pu_total": 10.32765752,
       "parsed_date": "18/11/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2024",
         "Data_Pgto": "18/11/2024",
@@ -5923,7 +5923,7 @@
       "pu_amort": 1.02744042,
       "pu_total": 8.72960273,
       "parsed_date": "16/12/2024",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2024",
         "Data_Pgto": "16/12/2024",
@@ -5969,7 +5969,7 @@
       "pu_amort": 1.03276538,
       "pu_total": 9.17586253,
       "parsed_date": "15/01/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2025",
         "Data_Pgto": "15/01/2025",
@@ -6015,7 +6015,7 @@
       "pu_amort": 1.03439811,
       "pu_total": 10.41005566,
       "parsed_date": "17/02/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2025",
         "Data_Pgto": "17/02/2025",
@@ -6061,7 +6061,7 @@
       "pu_amort": 1.0479275,
       "pu_total": 8.46665511,
       "parsed_date": "17/03/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2025",
         "Data_Pgto": "17/03/2025",
@@ -6107,7 +6107,7 @@
       "pu_amort": 7.37744561,
       "pu_total": 16.0774751,
       "parsed_date": "15/04/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2025",
         "Data_Pgto": "15/04/2025",
@@ -6153,7 +6153,7 @@
       "pu_amort": 7.40963521,
       "pu_total": 15.25582004,
       "parsed_date": "15/05/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2025",
         "Data_Pgto": "15/05/2025",
@@ -6199,7 +6199,7 @@
       "pu_amort": 7.42860303,
       "pu_total": 16.47766584,
       "parsed_date": "16/06/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2025",
         "Data_Pgto": "16/06/2025",
@@ -6245,7 +6245,7 @@
       "pu_amort": 7.44640492,
       "pu_total": 15.63005741,
       "parsed_date": "15/07/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2025",
         "Data_Pgto": "15/07/2025",
@@ -6291,7 +6291,7 @@
       "pu_amort": 7.46598166,
       "pu_total": 16.83891756,
       "parsed_date": "15/08/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2025",
         "Data_Pgto": "15/08/2025",
@@ -6337,7 +6337,7 @@
       "pu_amort": 7.45719169,
       "pu_total": 15.93996908,
       "parsed_date": "15/09/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2025",
         "Data_Pgto": "15/09/2025",
@@ -6383,7 +6383,7 @@
       "pu_amort": 7.49364132,
       "pu_total": 16.35918306,
       "parsed_date": "15/10/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2025",
         "Data_Pgto": "15/10/2025",
@@ -6429,7 +6429,7 @@
       "pu_amort": 7.50021311,
       "pu_total": 16.71024946,
       "parsed_date": "17/11/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2025",
         "Data_Pgto": "17/11/2025",
@@ -6475,7 +6475,7 @@
       "pu_amort": 7.51372084,
       "pu_total": 15.07288613,
       "parsed_date": "15/12/2025",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2025",
         "Data_Pgto": "15/12/2025",
@@ -6521,7 +6521,7 @@
       "pu_amort": 7.53867292,
       "pu_total": 15.86145149,
       "parsed_date": "15/01/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2026",
         "Data_Pgto": "15/01/2026",
@@ -6567,7 +6567,7 @@
       "pu_amort": 7.56284405,
       "pu_total": 16.24623577,
       "parsed_date": "18/02/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2026",
         "Data_Pgto": "18/02/2026",
@@ -6613,7 +6613,7 @@
       "pu_amort": 7.6161888,
       "pu_total": 14.7103277,
       "parsed_date": "16/03/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2026",
         "Data_Pgto": "16/03/2026",
@@ -6659,7 +6659,7 @@
       "pu_amort": 7.68271258,
       "pu_total": 15.97281488,
       "parsed_date": "15/04/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2026",
         "Data_Pgto": "15/04/2026",
@@ -6705,7 +6705,7 @@
       "pu_amort": 9.94793425,
       "pu_total": 17.83619398,
       "parsed_date": "15/05/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2026",
         "Data_Pgto": "15/05/2026",
@@ -6751,7 +6751,7 @@
       "pu_amort": 9.98804011,
       "pu_total": 17.82839339,
       "parsed_date": "15/06/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2026",
         "Data_Pgto": "15/06/2026",
@@ -6797,7 +6797,7 @@
       "pu_amort": 10.01904837,
       "pu_total": 18.58573788,
       "parsed_date": "15/07/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2026",
         "Data_Pgto": "15/07/2026",
@@ -6843,7 +6843,7 @@
       "pu_amort": 10.04467302,
       "pu_total": 18.93342313,
       "parsed_date": "17/08/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2026",
         "Data_Pgto": "17/08/2026",
@@ -6889,7 +6889,7 @@
       "pu_amort": 10.05137098,
       "pu_total": 17.70140664,
       "parsed_date": "15/09/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2026",
         "Data_Pgto": "15/09/2026",
@@ -6935,7 +6935,7 @@
       "pu_amort": 10.083135,
       "pu_total": 18.05872582,
       "parsed_date": "15/10/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2026",
         "Data_Pgto": "15/10/2026",
@@ -6981,7 +6981,7 @@
       "pu_amort": 10.10704987,
       "pu_total": 18.01693919,
       "parsed_date": "16/11/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2026",
         "Data_Pgto": "16/11/2026",
@@ -7027,7 +7027,7 @@
       "pu_amort": 10.12914168,
       "pu_total": 17.59689667,
       "parsed_date": "15/12/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2026",
         "Data_Pgto": "15/12/2026",
@@ -7073,7 +7073,7 @@
       "pu_amort": 10.17235411,
       "pu_total": 17.9633162,
       "parsed_date": "15/01/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2027",
         "Data_Pgto": "15/01/2027",
@@ -7119,7 +7119,7 @@
       "pu_amort": 10.20969666,
       "pu_total": 17.20478576,
       "parsed_date": "15/02/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2027",
         "Data_Pgto": "15/02/2027",
@@ -7165,7 +7165,7 @@
       "pu_amort": 10.26993815,
       "pu_total": 17.59639802,
       "parsed_date": "15/03/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2027",
         "Data_Pgto": "15/03/2027",
@@ -7211,7 +7211,7 @@
       "pu_amort": 10.30403937,
       "pu_total": 18.30274134,
       "parsed_date": "15/04/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2027",
         "Data_Pgto": "15/04/2027",
@@ -7257,7 +7257,7 @@
       "pu_amort": 10.34351741,
       "pu_total": 17.91971637,
       "parsed_date": "17/05/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2027",
         "Data_Pgto": "17/05/2027",
@@ -7303,7 +7303,7 @@
       "pu_amort": 10.37083496,
       "pu_total": 17.52176116,
       "parsed_date": "15/06/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2027",
         "Data_Pgto": "15/06/2027",
@@ -7349,7 +7349,7 @@
       "pu_amort": 10.39601051,
       "pu_total": 18.19302463,
       "parsed_date": "15/07/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2027",
         "Data_Pgto": "15/07/2027",
@@ -7395,7 +7395,7 @@
       "pu_amort": 10.41795833,
       "pu_total": 18.1401405,
       "parsed_date": "16/08/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2027",
         "Data_Pgto": "16/08/2027",
@@ -7441,7 +7441,7 @@
       "pu_amort": 10.43552301,
       "pu_total": 17.73057176,
       "parsed_date": "15/09/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2027",
         "Data_Pgto": "15/09/2027",
@@ -7487,7 +7487,7 @@
       "pu_amort": 10.4631349,
       "pu_total": 17.68981295,
       "parsed_date": "15/10/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2027",
         "Data_Pgto": "15/10/2027",
@@ -7533,7 +7533,7 @@
       "pu_amort": 10.49593061,
       "pu_total": 17.31525373,
       "parsed_date": "16/11/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2027",
         "Data_Pgto": "16/11/2027",
@@ -7579,7 +7579,7 @@
       "pu_amort": 11.69461158,
       "pu_total": 18.78843357,
       "parsed_date": "15/12/2027",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2027",
         "Data_Pgto": "15/12/2027",
@@ -7625,7 +7625,7 @@
       "pu_amort": 11.74984733,
       "pu_total": 19.45170651,
       "parsed_date": "17/01/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2028",
         "Data_Pgto": "17/01/2028",
@@ -7671,7 +7671,7 @@
       "pu_amort": 11.79196272,
       "pu_total": 18.74788534,
       "parsed_date": "15/02/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2028",
         "Data_Pgto": "15/02/2028",
@@ -7717,7 +7717,7 @@
       "pu_amort": 11.85605084,
       "pu_total": 18.09139288,
       "parsed_date": "15/03/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2028",
         "Data_Pgto": "15/03/2028",
@@ -7763,7 +7763,7 @@
       "pu_amort": 11.89362403,
       "pu_total": 19.03678025,
       "parsed_date": "17/04/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2028",
         "Data_Pgto": "17/04/2028",
@@ -7809,7 +7809,7 @@
       "pu_amort": 11.93554847,
       "pu_total": 17.71032876,
       "parsed_date": "15/05/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2028",
         "Data_Pgto": "15/05/2028",
@@ -7855,7 +7855,7 @@
       "pu_amort": 11.9710199,
       "pu_total": 19.26964748,
       "parsed_date": "16/06/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2028",
         "Data_Pgto": "16/06/2028",
@@ -7901,7 +7901,7 @@
       "pu_amort": 12.00678066,
       "pu_total": 18.58763381,
       "parsed_date": "17/07/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2028",
         "Data_Pgto": "17/07/2028",
@@ -7947,7 +7947,7 @@
       "pu_amort": 12.04257702,
       "pu_total": 18.5424226,
       "parsed_date": "15/08/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2028",
         "Data_Pgto": "15/08/2028",
@@ -7993,7 +7993,7 @@
       "pu_amort": 12.07815607,
       "pu_total": 18.80341979,
       "parsed_date": "15/09/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2028",
         "Data_Pgto": "15/09/2028",
@@ -8039,7 +8039,7 @@
       "pu_amort": 12.11402439,
       "pu_total": 18.14730981,
       "parsed_date": "16/10/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2028",
         "Data_Pgto": "16/10/2028",
@@ -8085,7 +8085,7 @@
       "pu_amort": 12.150638,
       "pu_total": 18.40420927,
       "parsed_date": "16/11/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2028",
         "Data_Pgto": "16/11/2028",
@@ -8131,7 +8131,7 @@
       "pu_amort": 12.18692493,
       "pu_total": 18.0623144,
       "parsed_date": "15/12/2028",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2028",
         "Data_Pgto": "15/12/2028",
@@ -8177,7 +8177,7 @@
       "pu_amort": 12.22332368,
       "pu_total": 17.72810139,
       "parsed_date": "15/01/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2029",
         "Data_Pgto": "15/01/2029",
@@ -8223,7 +8223,7 @@
       "pu_amort": 12.25817175,
       "pu_total": 18.25986745,
       "parsed_date": "15/02/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2029",
         "Data_Pgto": "15/02/2029",
@@ -8269,7 +8269,7 @@
       "pu_amort": 12.29317237,
       "pu_total": 17.92654321,
       "parsed_date": "15/03/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2029",
         "Data_Pgto": "15/03/2029",
@@ -8315,7 +8315,7 @@
       "pu_amort": 12.32865351,
       "pu_total": 18.158845,
       "parsed_date": "16/04/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2029",
         "Data_Pgto": "16/04/2029",
@@ -8361,7 +8361,7 @@
       "pu_amort": 12.36420402,
       "pu_total": 17.83323875,
       "parsed_date": "15/05/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2029",
         "Data_Pgto": "15/05/2029",
@@ -8407,7 +8407,7 @@
       "pu_amort": 12.39941515,
       "pu_total": 18.32646219,
       "parsed_date": "15/06/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2029",
         "Data_Pgto": "15/06/2029",
@@ -8453,7 +8453,7 @@
       "pu_amort": 12.43521419,
       "pu_total": 18.00407062,
       "parsed_date": "16/07/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2029",
         "Data_Pgto": "16/07/2029",
@@ -8499,7 +8499,7 @@
       "pu_amort": 12.47045429,
       "pu_total": 18.2132241,
       "parsed_date": "15/08/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2029",
         "Data_Pgto": "15/08/2029",
@@ -8545,7 +8545,7 @@
       "pu_amort": 12.50662847,
       "pu_total": 18.15639592,
       "parsed_date": "17/09/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2029",
         "Data_Pgto": "17/09/2029",
@@ -8591,7 +8591,7 @@
       "pu_amort": 12.54252914,
       "pu_total": 17.33819368,
       "parsed_date": "15/10/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2029",
         "Data_Pgto": "15/10/2029",
@@ -8637,7 +8637,7 @@
       "pu_amort": 12.57825614,
       "pu_total": 18.04026576,
       "parsed_date": "16/11/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2029",
         "Data_Pgto": "16/11/2029",
@@ -8683,7 +8683,7 @@
       "pu_amort": 12.61447158,
       "pu_total": 17.49185861,
       "parsed_date": "17/12/2029",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2029",
         "Data_Pgto": "17/12/2029",
@@ -8729,7 +8729,7 @@
       "pu_amort": 12.65052611,
       "pu_total": 17.20083026,
       "parsed_date": "15/01/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2030",
         "Data_Pgto": "15/01/2030",
@@ -8775,7 +8775,7 @@
       "pu_amort": 12.68695872,
       "pu_total": 18.09927833,
       "parsed_date": "15/02/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2030",
         "Data_Pgto": "15/02/2030",
@@ -8821,7 +8821,7 @@
       "pu_amort": 12.7236212,
       "pu_total": 16.87623403,
       "parsed_date": "15/03/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2030",
         "Data_Pgto": "15/03/2030",
@@ -8867,7 +8867,7 @@
       "pu_amort": 12.76031546,
       "pu_total": 17.51521806,
       "parsed_date": "15/04/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2030",
         "Data_Pgto": "15/04/2030",
@@ -8913,7 +8913,7 @@
       "pu_amort": 12.79679425,
       "pu_total": 17.23556397,
       "parsed_date": "15/05/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2030",
         "Data_Pgto": "15/05/2030",
@@ -8959,7 +8959,7 @@
       "pu_amort": 12.83330882,
       "pu_total": 17.83811119,
       "parsed_date": "17/06/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2030",
         "Data_Pgto": "17/06/2030",
@@ -9005,7 +9005,7 @@
       "pu_amort": 12.87000489,
       "pu_total": 16.9157352,
       "parsed_date": "15/07/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2030",
         "Data_Pgto": "15/07/2030",
@@ -9051,7 +9051,7 @@
       "pu_amort": 12.90744726,
       "pu_total": 17.70471218,
       "parsed_date": "15/08/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2030",
         "Data_Pgto": "15/08/2030",
@@ -9097,7 +9097,7 @@
       "pu_amort": 12.94449963,
       "pu_total": 17.43212283,
       "parsed_date": "16/09/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2030",
         "Data_Pgto": "16/09/2030",
@@ -9143,7 +9143,7 @@
       "pu_amort": 12.9815439,
       "pu_total": 17.16816621,
       "parsed_date": "15/10/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2030",
         "Data_Pgto": "15/10/2030",
@@ -9189,7 +9189,7 @@
       "pu_amort": 13.01880114,
       "pu_total": 17.49995707,
       "parsed_date": "18/11/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2030",
         "Data_Pgto": "18/11/2030",
@@ -9235,7 +9235,7 @@
       "pu_amort": 13.05585469,
       "pu_total": 16.66670404,
       "parsed_date": "16/12/2030",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2030",
         "Data_Pgto": "16/12/2030",
@@ -9281,7 +9281,7 @@
       "pu_amort": 13.09358822,
       "pu_total": 16.80198373,
       "parsed_date": "15/01/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2031",
         "Data_Pgto": "15/01/2031",
@@ -9327,7 +9327,7 @@
       "pu_amort": 13.15257624,
       "pu_total": 17.31856716,
       "parsed_date": "17/02/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2031",
         "Data_Pgto": "17/02/2031",
@@ -9373,7 +9373,7 @@
       "pu_amort": 13.21167994,
       "pu_total": 16.38888521,
       "parsed_date": "17/03/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2031",
         "Data_Pgto": "17/03/2031",
@@ -9419,7 +9419,7 @@
       "pu_amort": 13.27115509,
       "pu_total": 16.71309481,
       "parsed_date": "15/04/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2031",
         "Data_Pgto": "15/04/2031",
@@ -9465,7 +9465,7 @@
       "pu_amort": 13.33098782,
       "pu_total": 16.68235965,
       "parsed_date": "15/05/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2031",
         "Data_Pgto": "15/05/2031",
@@ -9511,7 +9511,7 @@
       "pu_amort": 13.39089633,
       "pu_total": 16.81448959,
       "parsed_date": "16/06/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2031",
         "Data_Pgto": "16/06/2031",
@@ -9557,7 +9557,7 @@
       "pu_amort": 13.4511302,
       "pu_total": 16.77774313,
       "parsed_date": "15/07/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2031",
         "Data_Pgto": "15/07/2031",
@@ -9603,7 +9603,7 @@
       "pu_amort": 13.51155728,
       "pu_total": 17.04914536,
       "parsed_date": "15/08/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2031",
         "Data_Pgto": "15/08/2031",
@@ -9649,7 +9649,7 @@
       "pu_amort": 13.57241678,
       "pu_total": 16.70223736,
       "parsed_date": "15/09/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2031",
         "Data_Pgto": "15/09/2031",
@@ -9695,7 +9695,7 @@
       "pu_amort": 13.63345284,
       "pu_total": 16.80836284,
       "parsed_date": "15/10/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2031",
         "Data_Pgto": "15/10/2031",
@@ -9741,7 +9741,7 @@
       "pu_amort": 13.69497298,
       "pu_total": 16.90442564,
       "parsed_date": "17/11/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2031",
         "Data_Pgto": "17/11/2031",
@@ -9787,7 +9787,7 @@
       "pu_amort": 13.75627956,
       "pu_total": 16.31343419,
       "parsed_date": "15/12/2031",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2031",
         "Data_Pgto": "15/12/2031",
@@ -9833,7 +9833,7 @@
       "pu_amort": 13.81836555,
       "pu_total": 16.54308647,
       "parsed_date": "15/01/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2032",
         "Data_Pgto": "15/01/2032",
@@ -9879,7 +9879,7 @@
       "pu_amort": 13.88057423,
       "pu_total": 16.37627719,
       "parsed_date": "16/02/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2032",
         "Data_Pgto": "16/02/2032",
@@ -9925,7 +9925,7 @@
       "pu_amort": 13.94287756,
       "pu_total": 16.33888439,
       "parsed_date": "15/03/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2032",
         "Data_Pgto": "15/03/2032",
@@ -9971,7 +9971,7 @@
       "pu_amort": 14.00580413,
       "pu_total": 16.53170664,
       "parsed_date": "15/04/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2032",
         "Data_Pgto": "15/04/2032",
@@ -10017,7 +10017,7 @@
       "pu_amort": 14.06862306,
       "pu_total": 16.37253408,
       "parsed_date": "17/05/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2032",
         "Data_Pgto": "17/05/2032",
@@ -10063,7 +10063,7 @@
       "pu_amort": 14.13193512,
       "pu_total": 16.22314319,
       "parsed_date": "15/06/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2032",
         "Data_Pgto": "15/06/2032",
@@ -10109,7 +10109,7 @@
       "pu_amort": 14.19560642,
       "pu_total": 16.38292531,
       "parsed_date": "15/07/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2032",
         "Data_Pgto": "15/07/2032",
@@ -10155,7 +10155,7 @@
       "pu_amort": 21.38919702,
       "pu_total": 23.4615205,
       "parsed_date": "16/08/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2032",
         "Data_Pgto": "16/08/2032",
@@ -10201,7 +10201,7 @@
       "pu_amort": 21.48561937,
       "pu_total": 23.29273952,
       "parsed_date": "15/09/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2032",
         "Data_Pgto": "15/09/2032",
@@ -10247,7 +10247,7 @@
       "pu_amort": 21.58222093,
       "pu_total": 23.21714959,
       "parsed_date": "15/10/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2032",
         "Data_Pgto": "15/10/2032",
@@ -10293,7 +10293,7 @@
       "pu_amort": 21.67937703,
       "pu_total": 23.07067392,
       "parsed_date": "16/11/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2032",
         "Data_Pgto": "16/11/2032",
@@ -10339,7 +10339,7 @@
       "pu_amort": 11.61440519,
       "pu_total": 12.90018226,
       "parsed_date": "15/12/2032",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2032",
         "Data_Pgto": "15/12/2032",
@@ -10385,7 +10385,7 @@
       "pu_amort": 11.66666912,
       "pu_total": 12.97499674,
       "parsed_date": "17/01/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2033",
         "Data_Pgto": "17/01/2033",
@@ -10431,7 +10431,7 @@
       "pu_amort": 11.71912955,
       "pu_total": 12.82067367,
       "parsed_date": "15/02/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2033",
         "Data_Pgto": "15/02/2033",
@@ -10477,7 +10477,7 @@
       "pu_amort": 11.77185242,
       "pu_total": 12.6354629,
       "parsed_date": "15/03/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2033",
         "Data_Pgto": "15/03/2033",
@@ -10523,7 +10523,7 @@
       "pu_amort": 11.82481066,
       "pu_total": 12.82612803,
       "parsed_date": "18/04/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/04/2033",
         "Data_Pgto": "18/04/2033",
@@ -10569,7 +10569,7 @@
       "pu_amort": 11.87802374,
       "pu_total": 12.61850678,
       "parsed_date": "16/05/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2033",
         "Data_Pgto": "16/05/2033",
@@ -10615,7 +10615,7 @@
       "pu_amort": 11.93148544,
       "pu_total": 12.68880073,
       "parsed_date": "15/06/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2033",
         "Data_Pgto": "15/06/2033",
@@ -10661,7 +10661,7 @@
       "pu_amort": 11.9851806,
       "pu_total": 12.61104343,
       "parsed_date": "15/07/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2033",
         "Data_Pgto": "15/07/2033",
@@ -10707,7 +10707,7 @@
       "pu_amort": 12.03910188,
       "pu_total": 12.56719242,
       "parsed_date": "15/08/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2033",
         "Data_Pgto": "15/08/2033",
@@ -10753,7 +10753,7 @@
       "pu_amort": 7.55831705,
       "pu_total": 8.00828086,
       "parsed_date": "15/09/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2033",
         "Data_Pgto": "15/09/2033",
@@ -10799,7 +10799,7 @@
       "pu_amort": 7.59232791,
       "pu_total": 7.96025095,
       "parsed_date": "17/10/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2033",
         "Data_Pgto": "17/10/2033",
@@ -10845,7 +10845,7 @@
       "pu_amort": 7.62647012,
       "pu_total": 7.91770582,
       "parsed_date": "16/11/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/11/2033",
         "Data_Pgto": "16/11/2033",
@@ -10891,7 +10891,7 @@
       "pu_amort": 7.66080779,
       "pu_total": 7.90403522,
       "parsed_date": "15/12/2033",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/12/2033",
         "Data_Pgto": "15/12/2033",
@@ -10937,7 +10937,7 @@
       "pu_amort": 7.69528032,
       "pu_total": 7.88391711,
       "parsed_date": "16/01/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/01/2034",
         "Data_Pgto": "16/01/2034",
@@ -10983,7 +10983,7 @@
       "pu_amort": 7.72991046,
       "pu_total": 7.85172264,
       "parsed_date": "15/02/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/02/2034",
         "Data_Pgto": "15/02/2034",
@@ -11029,7 +11029,7 @@
       "pu_amort": 6.21174487,
       "pu_total": 6.2562042,
       "parsed_date": "15/03/2034",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/03/2034",
         "Data_Pgto": "15/03/2034",
@@ -11073,8 +11073,12 @@
     "event_count": 119,
     "next_payment_date": "15/05/2026",
     "next_payment_amount": 1346632.65,
+    "next_interest_amount": 595563.61,
+    "next_amortization_amount": 751069.04,
     "last_event_date": "15/04/2026",
-    "final_balance": 0.0
+    "final_balance": 0.0,
+    "duration_years": 3.689971986860818,
+    "wal_years": 4.060988981666296
   },
   "timeline": [
     {
@@ -11093,7 +11097,7 @@
       "pu_amort": 9.94793425,
       "pu_total": 17.83619398,
       "parsed_date": "15/05/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/05/2026",
         "Data_Pgto": "15/05/2026",
@@ -11139,7 +11143,7 @@
       "pu_amort": 9.98804011,
       "pu_total": 17.82839339,
       "parsed_date": "15/06/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/06/2026",
         "Data_Pgto": "15/06/2026",
@@ -11185,7 +11189,7 @@
       "pu_amort": 10.01904837,
       "pu_total": 18.58573788,
       "parsed_date": "15/07/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/07/2026",
         "Data_Pgto": "15/07/2026",
@@ -11231,7 +11235,7 @@
       "pu_amort": 10.04467302,
       "pu_total": 18.93342313,
       "parsed_date": "17/08/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/08/2026",
         "Data_Pgto": "17/08/2026",
@@ -11277,7 +11281,7 @@
       "pu_amort": 10.05137098,
       "pu_total": 17.70140664,
       "parsed_date": "15/09/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/09/2026",
         "Data_Pgto": "15/09/2026",
@@ -11323,7 +11327,7 @@
       "pu_amort": 10.083135,
       "pu_total": 18.05872582,
       "parsed_date": "15/10/2026",
-      "sort_key": "",
+      "sort_key": "Fluxo",
       "raw": {
         "Data_Ref": "15/10/2026",
         "Data_Pgto": "15/10/2026",
@@ -11362,11 +11366,23 @@
   "selected_variant": "",
   "comparison": [
     {
+      "id": "axsgoias",
+      "label": "AXS Goiás",
+      "full_name": "AXS Goias - Emissao 1 / Serie UNICA",
+      "current_balance": 233574009.62,
+      "next_payment_amount": 13136438.24,
+      "total_interest": 331968335.39,
+      "total_amortization": 407554618.16,
+      "event_count": 35,
+      "indexer": "IPCA + 10,40%",
+      "badge": "DEB"
+    },
+    {
       "id": "axs11",
       "label": "AXS 11",
       "full_name": "AXS 11 - Emissao 1 / Serie UNICA",
       "current_balance": 181719598.88,
-      "next_payment_amount": 0.0,
+      "next_payment_amount": 14579766.21,
       "total_interest": 244222593.15,
       "total_amortization": 321120832.55,
       "event_count": 32,
@@ -11410,6 +11426,18 @@
       "badge": "DEB"
     },
     {
+      "id": "axs01",
+      "label": "AXS 01",
+      "full_name": "AXS 01 - Refi / 2 Series",
+      "current_balance": 116119132.61,
+      "next_payment_amount": 8523949.26,
+      "total_interest": 155424861.39,
+      "total_amortization": 212163642.74,
+      "event_count": 32,
+      "indexer": "IPCA + 9,35% / 10,97%",
+      "badge": "DEB"
+    },
+    {
       "id": "axs09",
       "label": "AXS 09",
       "full_name": "AXS ENERGIA 09 - Emissao 1 / Serie UNICA",
@@ -11419,6 +11447,18 @@
       "total_amortization": 154779297.21,
       "event_count": 28,
       "indexer": "IPCA + 10,98%",
+      "badge": "DEB"
+    },
+    {
+      "id": "axs05",
+      "label": "AXS 05",
+      "full_name": "AXS 05 - 2a Emissao / 2 Series",
+      "current_balance": 92056612.42,
+      "next_payment_amount": 8055402.15,
+      "total_interest": 110876445.22,
+      "total_amortization": 161500374.52,
+      "event_count": 32,
+      "indexer": "IPCA + 9,47% / 10,97%",
       "badge": "DEB"
     },
     {
@@ -11458,23 +11498,11 @@
       "badge": "DEB"
     },
     {
-      "id": "axs05",
-      "label": "AXS 05",
-      "full_name": "AXS 05 - 2a Emissao / 2 Series",
-      "current_balance": 68246433.55,
-      "next_payment_amount": 0.0,
-      "total_interest": 110876445.22,
-      "total_amortization": 161500374.52,
-      "event_count": 64,
-      "indexer": "IPCA + 9,47% / 10,97%",
-      "badge": "DEB"
-    },
-    {
       "id": "axs06",
       "label": "AXS 06",
       "full_name": "AXS 06 - Emissao 2 / Serie UNICA",
       "current_balance": 32379016.05,
-      "next_payment_amount": 0.0,
+      "next_payment_amount": 1925105.51,
       "total_interest": 50236413.26,
       "total_amortization": 61396363.32,
       "event_count": 34,
@@ -11482,6 +11510,6 @@
       "badge": "DEB"
     }
   ],
-  "generated_at": "04/05/2026 16:56:00",
-  "generated_at_iso": "2026-05-04T16:56:00"
+  "generated_at": "05/05/2026 10:26:32",
+  "generated_at_iso": "2026-05-05T10:26:32"
 }

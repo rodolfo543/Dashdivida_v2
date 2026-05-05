@@ -78,7 +78,7 @@
       },
       {
         "label": "Proximo PMT",
-        "value": "0.0"
+        "value": "14579766.21"
       }
     ],
     "pu_fields": [
@@ -125,7 +125,7 @@
       "pu_amort": 0.0,
       "pu_total": 0.0,
       "parsed_date": "15/03/2026",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -172,7 +172,7 @@
       "pu_amort": 0.0,
       "pu_total": 0.0,
       "parsed_date": "15/09/2026",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -219,7 +219,7 @@
       "pu_amort": 0.0,
       "pu_total": 0.0,
       "parsed_date": "15/03/2027",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -266,7 +266,7 @@
       "pu_amort": 18.78902772,
       "pu_total": 85.76333066,
       "parsed_date": "15/09/2027",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -313,7 +313,7 @@
       "pu_amort": 19.17348278,
       "pu_total": 85.0105073,
       "parsed_date": "15/03/2028",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -360,7 +360,7 @@
       "pu_amort": 32.62090342,
       "pu_total": 99.76392292,
       "parsed_date": "15/09/2028",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -407,7 +407,7 @@
       "pu_amort": 33.20119411,
       "pu_total": 96.56400051,
       "parsed_date": "15/03/2029",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -454,7 +454,7 @@
       "pu_amort": 33.77661328,
       "pu_total": 100.26929645,
       "parsed_date": "15/09/2029",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -501,7 +501,7 @@
       "pu_amort": 34.36273688,
       "pu_total": 96.49346895,
       "parsed_date": "15/03/2030",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -548,7 +548,7 @@
       "pu_amort": 34.95923375,
       "pu_total": 100.06121991,
       "parsed_date": "15/09/2030",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -595,7 +595,7 @@
       "pu_amort": 38.5360284,
       "pu_total": 101.01726158,
       "parsed_date": "15/03/2031",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -642,7 +642,7 @@
       "pu_amort": 39.5884564,
       "pu_total": 102.76628023,
       "parsed_date": "15/09/2031",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -689,7 +689,7 @@
       "pu_amort": 40.66892892,
       "pu_total": 102.93296432,
       "parsed_date": "15/03/2032",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -736,7 +736,7 @@
       "pu_amort": 46.42158508,
       "pu_total": 109.73938045,
       "parsed_date": "15/09/2032",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -783,7 +783,7 @@
       "pu_amort": 51.66419249,
       "pu_total": 112.17212295,
       "parsed_date": "15/03/2033",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -830,7 +830,7 @@
       "pu_amort": 53.07456104,
       "pu_total": 114.46996377,
       "parsed_date": "15/09/2033",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -877,7 +877,7 @@
       "pu_amort": 54.52382787,
       "pu_total": 112.76835705,
       "parsed_date": "15/03/2034",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -924,7 +924,7 @@
       "pu_amort": 56.01237839,
       "pu_total": 114.37781441,
       "parsed_date": "15/09/2034",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -971,7 +971,7 @@
       "pu_amort": 70.74680126,
       "pu_total": 124.9149461,
       "parsed_date": "15/03/2035",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1018,7 +1018,7 @@
       "pu_amort": 72.67907817,
       "pu_total": 127.76498686,
       "parsed_date": "15/09/2035",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1065,7 +1065,7 @@
       "pu_amort": 74.66393424,
       "pu_total": 124.75576516,
       "parsed_date": "15/03/2036",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1112,7 +1112,7 @@
       "pu_amort": 67.30334856,
       "pu_total": 116.48020609,
       "parsed_date": "15/09/2036",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1159,7 +1159,7 @@
       "pu_amort": 70.6913691,
       "pu_total": 117.2115831,
       "parsed_date": "15/03/2037",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1206,7 +1206,7 @@
       "pu_amort": 82.72766072,
       "pu_total": 127.11046584,
       "parsed_date": "15/09/2037",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1253,7 +1253,7 @@
       "pu_amort": 90.65280316,
       "pu_total": 130.46190892,
       "parsed_date": "15/03/2038",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1300,7 +1300,7 @@
       "pu_amort": 104.71759298,
       "pu_total": 142.72539972,
       "parsed_date": "15/09/2038",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1347,7 +1347,7 @@
       "pu_amort": 113.61885953,
       "pu_total": 145.87623753,
       "parsed_date": "15/03/2039",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1394,7 +1394,7 @@
       "pu_amort": 116.7209434,
       "pu_total": 144.7492854,
       "parsed_date": "15/09/2039",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1441,7 +1441,7 @@
       "pu_amort": 121.56663686,
       "pu_total": 143.44528379,
       "parsed_date": "15/03/2040",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1488,7 +1488,7 @@
       "pu_amort": 123.09430168,
       "pu_total": 139.48295615,
       "parsed_date": "15/09/2040",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1535,7 +1535,7 @@
       "pu_amort": 108.40583683,
       "pu_total": 117.95098174,
       "parsed_date": "15/03/2041",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1582,7 +1582,7 @@
       "pu_amort": 83.98375662,
       "pu_total": 88.44966485,
       "parsed_date": "15/09/2041",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1631,7 +1631,7 @@
       "pu_amort": 0.0,
       "pu_total": 0.0,
       "parsed_date": "15/03/2026",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1678,7 +1678,7 @@
       "pu_amort": 0.0,
       "pu_total": 0.0,
       "parsed_date": "15/09/2026",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1725,7 +1725,7 @@
       "pu_amort": 0.0,
       "pu_total": 0.0,
       "parsed_date": "15/03/2027",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1772,7 +1772,7 @@
       "pu_amort": 18.78902772,
       "pu_total": 85.76333066,
       "parsed_date": "15/09/2027",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1819,7 +1819,7 @@
       "pu_amort": 19.17348278,
       "pu_total": 85.0105073,
       "parsed_date": "15/03/2028",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1866,7 +1866,7 @@
       "pu_amort": 32.62090342,
       "pu_total": 99.76392292,
       "parsed_date": "15/09/2028",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1913,7 +1913,7 @@
       "pu_amort": 33.20119411,
       "pu_total": 96.56400051,
       "parsed_date": "15/03/2029",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -1960,7 +1960,7 @@
       "pu_amort": 33.77661328,
       "pu_total": 100.26929645,
       "parsed_date": "15/09/2029",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2007,7 +2007,7 @@
       "pu_amort": 34.36273688,
       "pu_total": 96.49346895,
       "parsed_date": "15/03/2030",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2054,7 +2054,7 @@
       "pu_amort": 34.95923375,
       "pu_total": 100.06121991,
       "parsed_date": "15/09/2030",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2101,7 +2101,7 @@
       "pu_amort": 38.5360284,
       "pu_total": 101.01726158,
       "parsed_date": "15/03/2031",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2148,7 +2148,7 @@
       "pu_amort": 39.5884564,
       "pu_total": 102.76628023,
       "parsed_date": "15/09/2031",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2195,7 +2195,7 @@
       "pu_amort": 40.66892892,
       "pu_total": 102.93296432,
       "parsed_date": "15/03/2032",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2242,7 +2242,7 @@
       "pu_amort": 46.42158508,
       "pu_total": 109.73938045,
       "parsed_date": "15/09/2032",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2289,7 +2289,7 @@
       "pu_amort": 51.66419249,
       "pu_total": 112.17212295,
       "parsed_date": "15/03/2033",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2336,7 +2336,7 @@
       "pu_amort": 53.07456104,
       "pu_total": 114.46996377,
       "parsed_date": "15/09/2033",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2383,7 +2383,7 @@
       "pu_amort": 54.52382787,
       "pu_total": 112.76835705,
       "parsed_date": "15/03/2034",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2430,7 +2430,7 @@
       "pu_amort": 56.01237839,
       "pu_total": 114.37781441,
       "parsed_date": "15/09/2034",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2477,7 +2477,7 @@
       "pu_amort": 70.74680126,
       "pu_total": 124.9149461,
       "parsed_date": "15/03/2035",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2524,7 +2524,7 @@
       "pu_amort": 72.67907817,
       "pu_total": 127.76498686,
       "parsed_date": "15/09/2035",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2571,7 +2571,7 @@
       "pu_amort": 74.66393424,
       "pu_total": 124.75576516,
       "parsed_date": "15/03/2036",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2618,7 +2618,7 @@
       "pu_amort": 67.30334856,
       "pu_total": 116.48020609,
       "parsed_date": "15/09/2036",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2665,7 +2665,7 @@
       "pu_amort": 70.6913691,
       "pu_total": 117.2115831,
       "parsed_date": "15/03/2037",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2712,7 +2712,7 @@
       "pu_amort": 82.72766072,
       "pu_total": 127.11046584,
       "parsed_date": "15/09/2037",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2759,7 +2759,7 @@
       "pu_amort": 90.65280316,
       "pu_total": 130.46190892,
       "parsed_date": "15/03/2038",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2806,7 +2806,7 @@
       "pu_amort": 104.71759298,
       "pu_total": 142.72539972,
       "parsed_date": "15/09/2038",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2853,7 +2853,7 @@
       "pu_amort": 113.61885953,
       "pu_total": 145.87623753,
       "parsed_date": "15/03/2039",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2900,7 +2900,7 @@
       "pu_amort": 116.7209434,
       "pu_total": 144.7492854,
       "parsed_date": "15/09/2039",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2947,7 +2947,7 @@
       "pu_amort": 121.56663686,
       "pu_total": 143.44528379,
       "parsed_date": "15/03/2040",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -2994,7 +2994,7 @@
       "pu_amort": 123.09430168,
       "pu_total": 139.48295615,
       "parsed_date": "15/09/2040",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -3041,7 +3041,7 @@
       "pu_amort": 108.40583683,
       "pu_total": 117.95098174,
       "parsed_date": "15/03/2041",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -3088,7 +3088,7 @@
       "pu_amort": 83.98375662,
       "pu_total": 88.44966485,
       "parsed_date": "15/09/2041",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -3131,10 +3131,14 @@
     "total_interest": 244222593.15,
     "total_amortization": 321120832.55,
     "event_count": 32,
-    "next_payment_date": "15/09/2026",
-    "next_payment_amount": 0.0,
+    "next_payment_date": "15/09/2027",
+    "next_payment_amount": 14579766.21,
+    "next_interest_amount": 11385631.5,
+    "next_amortization_amount": 3194134.71,
     "last_event_date": "15/03/2026",
-    "final_balance": 0.0
+    "final_balance": 0.0,
+    "duration_years": 8.846187314160906,
+    "wal_years": 10.271955523848701
   },
   "timeline": [
     {
@@ -3153,7 +3157,7 @@
       "pu_amort": 0.0,
       "pu_total": 0.0,
       "parsed_date": "15/09/2026",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -3200,7 +3204,7 @@
       "pu_amort": 0.0,
       "pu_total": 0.0,
       "parsed_date": "15/03/2027",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -3247,7 +3251,7 @@
       "pu_amort": 18.78902772,
       "pu_total": 85.76333066,
       "parsed_date": "15/09/2027",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -3294,7 +3298,7 @@
       "pu_amort": 19.17348278,
       "pu_total": 85.0105073,
       "parsed_date": "15/03/2028",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -3341,7 +3345,7 @@
       "pu_amort": 32.62090342,
       "pu_total": 99.76392292,
       "parsed_date": "15/09/2028",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -3388,7 +3392,7 @@
       "pu_amort": 33.20119411,
       "pu_total": 96.56400051,
       "parsed_date": "15/03/2029",
-      "sort_key": "BRAXSIDBS004",
+      "sort_key": "AXSI11",
       "raw": {
         "Instrumento": "AXS 11 - Serie Unica",
         "Ticker": "AXSI11",
@@ -3429,11 +3433,23 @@
   "selected_variant": "",
   "comparison": [
     {
+      "id": "axsgoias",
+      "label": "AXS Goiás",
+      "full_name": "AXS Goias - Emissao 1 / Serie UNICA",
+      "current_balance": 233574009.62,
+      "next_payment_amount": 13136438.24,
+      "total_interest": 331968335.39,
+      "total_amortization": 407554618.16,
+      "event_count": 35,
+      "indexer": "IPCA + 10,40%",
+      "badge": "DEB"
+    },
+    {
       "id": "axs11",
       "label": "AXS 11",
       "full_name": "AXS 11 - Emissao 1 / Serie UNICA",
       "current_balance": 181719598.88,
-      "next_payment_amount": 0.0,
+      "next_payment_amount": 14579766.21,
       "total_interest": 244222593.15,
       "total_amortization": 321120832.55,
       "event_count": 32,
@@ -3477,6 +3493,18 @@
       "badge": "DEB"
     },
     {
+      "id": "axs01",
+      "label": "AXS 01",
+      "full_name": "AXS 01 - Refi / 2 Series",
+      "current_balance": 116119132.61,
+      "next_payment_amount": 8523949.26,
+      "total_interest": 155424861.39,
+      "total_amortization": 212163642.74,
+      "event_count": 32,
+      "indexer": "IPCA + 9,35% / 10,97%",
+      "badge": "DEB"
+    },
+    {
       "id": "axs09",
       "label": "AXS 09",
       "full_name": "AXS ENERGIA 09 - Emissao 1 / Serie UNICA",
@@ -3486,6 +3514,18 @@
       "total_amortization": 154779297.21,
       "event_count": 28,
       "indexer": "IPCA + 10,98%",
+      "badge": "DEB"
+    },
+    {
+      "id": "axs05",
+      "label": "AXS 05",
+      "full_name": "AXS 05 - 2a Emissao / 2 Series",
+      "current_balance": 92056612.42,
+      "next_payment_amount": 8055402.15,
+      "total_interest": 110876445.22,
+      "total_amortization": 161500374.52,
+      "event_count": 32,
+      "indexer": "IPCA + 9,47% / 10,97%",
       "badge": "DEB"
     },
     {
@@ -3525,23 +3565,11 @@
       "badge": "DEB"
     },
     {
-      "id": "axs05",
-      "label": "AXS 05",
-      "full_name": "AXS 05 - 2a Emissao / 2 Series",
-      "current_balance": 68246433.55,
-      "next_payment_amount": 0.0,
-      "total_interest": 110876445.22,
-      "total_amortization": 161500374.52,
-      "event_count": 64,
-      "indexer": "IPCA + 9,47% / 10,97%",
-      "badge": "DEB"
-    },
-    {
       "id": "axs06",
       "label": "AXS 06",
       "full_name": "AXS 06 - Emissao 2 / Serie UNICA",
       "current_balance": 32379016.05,
-      "next_payment_amount": 0.0,
+      "next_payment_amount": 1925105.51,
       "total_interest": 50236413.26,
       "total_amortization": 61396363.32,
       "event_count": 34,
@@ -3549,6 +3577,6 @@
       "badge": "DEB"
     }
   ],
-  "generated_at": "04/05/2026 16:56:00",
-  "generated_at_iso": "2026-05-04T16:56:00"
+  "generated_at": "05/05/2026 10:26:32",
+  "generated_at_iso": "2026-05-05T10:26:32"
 }

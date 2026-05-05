@@ -85,13 +85,7 @@ def build_operations_manifest(engine: Any, generated_at: str, generated_at_iso: 
             "category": item.category,
             "indexer": item.indexer,
             "badge": item.badge,
-            "variant_options": [
-                {"id": "total", "label": "Total"},
-                {"id": "cri", "label": "CRI"},
-                {"id": "deb", "label": "Debenture"},
-            ]
-            if item.id == "axs02"
-            else [],
+            "variant_options": engine.variant_options_for(item.id),
         }
         for item in engine.OPERATIONS.values()
     )
@@ -122,19 +116,21 @@ def generate_operation_payloads(engine: Any, generated_at: str, generated_at_iso
         payload = with_generation_meta(engine.get_payload(operation_id), generated_at, generated_at_iso)
         write_json(ROOT_DATA_DIR / "operations" / f"{operation_id}.json", payload)
         write_json(DOCS_DATA_DIR / "operations" / f"{operation_id}.json", payload)
-
-        if operation_id != "axs02":
-            continue
-
-        for variant_id in ("total", "cri", "deb"):
+        for option in engine.variant_options_for(operation_id):
+            variant_id = option["id"]
             variant_payload = with_generation_meta(engine.get_payload(operation_id, variant_id), generated_at, generated_at_iso)
-            filename = (
-                f"{operation_id}.json"
-                if variant_id == "total"
-                else f"{operation_id}--{variant_id}.json"
-            )
+            filename = f"{operation_id}.json" if variant_id == "total" else f"{operation_id}--{variant_id}.json"
             write_json(ROOT_DATA_DIR / "operations" / filename, variant_payload)
             write_json(DOCS_DATA_DIR / "operations" / filename, variant_payload)
+
+
+def sync_optional_knowledge_assets() -> None:
+    chunks_path = ROOT_DIR / "chunks.json"
+    if not chunks_path.exists():
+        return
+    content = chunks_path.read_text(encoding="utf-8")
+    write_text(ROOT_DATA_DIR / "chunks.json", content)
+    write_text(DOCS_DATA_DIR / "chunks.json", content)
 
 
 def sync_frontend_assets() -> None:
@@ -157,6 +153,7 @@ def build_static_site() -> None:
 
     rebuild_data_dirs()
     sync_frontend_assets()
+    sync_optional_knowledge_assets()
     generate_operation_payloads(engine, generated_at, generated_at_iso)
 
 
