@@ -1,0 +1,107 @@
+{
+  "generated_at": "04/05/2026 16:56:00",
+  "generated_at_iso": "2026-05-04T16:56:00",
+  "operations": [
+    {
+      "id": "geral",
+      "label": "Visao Geral",
+      "category": "Carteira",
+      "indexer": "Consolidado",
+      "badge": "Carteira",
+      "variant_options": []
+    },
+    {
+      "id": "axs02",
+      "label": "AXS 02",
+      "category": "CRI + Debenture",
+      "indexer": "IPCA + 11%",
+      "badge": "Portfolio",
+      "variant_options": [
+        {
+          "id": "total",
+          "label": "Total"
+        },
+        {
+          "id": "cri",
+          "label": "CRI"
+        },
+        {
+          "id": "deb",
+          "label": "Debenture"
+        }
+      ]
+    },
+    {
+      "id": "axs03",
+      "label": "AXS 03",
+      "category": "CRI",
+      "indexer": "IPCA + 11%",
+      "badge": "CRI",
+      "variant_options": []
+    },
+    {
+      "id": "axs04",
+      "label": "AXS 04",
+      "category": "CRI",
+      "indexer": "IPCA + 11%",
+      "badge": "CRI",
+      "variant_options": []
+    },
+    {
+      "id": "axs05",
+      "label": "AXS 05",
+      "category": "Debenture",
+      "indexer": "IPCA + 9,47% / 10,97%",
+      "badge": "DEB",
+      "variant_options": []
+    },
+    {
+      "id": "axs06",
+      "label": "AXS 06",
+      "category": "Debenture",
+      "indexer": "IPCA + 10,38%",
+      "badge": "DEB",
+      "variant_options": []
+    },
+    {
+      "id": "axs07",
+      "label": "AXS 07",
+      "category": "Debenture",
+      "indexer": "IPCA + 10,50%",
+      "badge": "DEB",
+      "variant_options": []
+    },
+    {
+      "id": "axs08",
+      "label": "AXS 08",
+      "category": "Debenture",
+      "indexer": "IPCA + 11%",
+      "badge": "DEB",
+      "variant_options": []
+    },
+    {
+      "id": "axs09",
+      "label": "AXS 09",
+      "category": "Debenture",
+      "indexer": "IPCA + 10,98%",
+      "badge": "DEB",
+      "variant_options": []
+    },
+    {
+      "id": "axs10",
+      "label": "AXS 10",
+      "category": "Debenture",
+      "indexer": "CDI + 6,50%",
+      "badge": "DEB",
+      "variant_options": []
+    },
+    {
+      "id": "axs11",
+      "label": "AXS 11",
+      "category": "Debenture",
+      "indexer": "IPCA + 10,74%",
+      "badge": "DEB",
+      "variant_options": []
+    }
+  ]
+}

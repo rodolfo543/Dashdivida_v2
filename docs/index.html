@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Controle de d&iacute;vida - AXS Energia</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./dashboard.css">
+</head>
+<body>
+  <div class="page-shell">
+    <div class="ambient ambient-a"></div>
+    <div class="ambient ambient-b"></div>
+
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Controle executivo</p>
+        <h1>Controle de d&iacute;vida - AXS Energia</h1>
+        <p class="hero-text">
+          Dashboard visual para acompanhar cada emissao, consolidar a carteira e navegar
+          pelos calculos dos scripts Python com muito mais contexto financeiro.
+        </p>
+        <div class="hero-actions">
+          <button id="refreshButton" class="primary-button" type="button">Atualizar calculo</button>
+          <span id="statusPill" class="status-pill">Carregando operacoes...</span>
+        </div>
+        <div id="heroMiniMetrics" class="hero-mini-metrics"></div>
+      </div>
+
+      <section class="instrument-panel tilt-card">
+        <div class="instrument-header">
+          <span id="operationBadge" class="badge-pill">Carteira</span>
+          <h2 id="activeOperationName">Selecionando operacao...</h2>
+          <p id="activeOperationDescription" class="highlight-text">Preparando o dashboard.</p>
+        </div>
+
+        <div id="identityGrid" class="identity-grid"></div>
+
+        <div class="info-tabs">
+          <button class="info-tab active" data-panel="overview" type="button">Informacoes</button>
+          <button class="info-tab" data-panel="pu" type="button">PU</button>
+          <button class="info-tab" data-panel="sources" type="button">Fontes</button>
+        </div>
+
+        <div id="infoPanelContent" class="info-panel-content"></div>
+      </section>
+    </header>
+
+    <main class="content-grid">
+      <section class="panel panel-wide">
+        <div class="panel-header">
+          <div>
+            <p class="section-kicker">Carteira</p>
+            <h2>Escolha a analise</h2>
+          </div>
+          <p class="section-note">Use a visao geral para consolidado e cada aba individual para aprofundar a divida.</p>
+        </div>
+        <div id="operationTabs" class="operation-tabs"></div>
+        <div id="variantSection" class="variant-section hidden">
+          <div class="variant-header">
+            <span>Visao da AXS 02</span>
+            <small>Sem selecao extra, o dashboard mostra o total somado de CRI + Debenture.</small>
+          </div>
+          <div id="variantTabs" class="variant-tabs"></div>
+        </div>
+      </section>
+
+      <section id="metricsGrid" class="metrics-grid"></section>
+
+      <section class="panel chart-panel tilt-card">
+        <div class="panel-header">
+          <div>
+            <p class="section-kicker">Fluxo</p>
+            <h2>PMT por evento</h2>
+          </div>
+          <p class="section-note">Leitura do comportamento dos pagamentos no tempo.</p>
+        </div>
+        <div class="chart-wrap">
+          <svg id="paymentsChart" class="chart-svg" viewBox="0 0 760 320" preserveAspectRatio="none"></svg>
+          <div id="paymentsTooltip" class="chart-tooltip hidden"></div>
+        </div>
+      </section>
+
+      <section class="panel chart-panel tilt-card">
+        <div class="panel-header">
+          <div>
+            <p class="section-kicker">Saldo</p>
+            <h2>Curva do saldo devedor</h2>
+          </div>
+          <p class="section-note">Saldo atual corrigido pela data corrente da carteira.</p>
+        </div>
+        <div class="chart-wrap">
+          <svg id="balanceChart" class="chart-svg" viewBox="0 0 760 320" preserveAspectRatio="none"></svg>
+          <div id="balanceTooltip" class="chart-tooltip hidden"></div>
+        </div>
+      </section>
+
+      <section class="panel chart-panel tilt-card">
+        <div class="panel-header">
+          <div>
+            <p class="section-kicker">Composicao</p>
+            <h2>Juros x amortizacao</h2>
+          </div>
+          <p class="section-note">Comparacao direta entre as duas pernas do fluxo.</p>
+        </div>
+        <div class="chart-wrap">
+          <svg id="compositionChart" class="chart-svg" viewBox="0 0 760 320" preserveAspectRatio="none"></svg>
+          <div id="compositionTooltip" class="chart-tooltip hidden"></div>
+        </div>
+      </section>
+
+      <section class="panel chart-panel tilt-card">
+        <div class="panel-header">
+          <div>
+            <p class="section-kicker">Comparativo</p>
+            <h2>Saldos por emissao</h2>
+          </div>
+          <p class="section-note">Radar da carteira inteira, mesmo quando uma divida especifica estiver selecionada.</p>
+        </div>
+        <div class="chart-wrap">
+          <svg id="comparisonChart" class="chart-svg" viewBox="0 0 760 320" preserveAspectRatio="none"></svg>
+          <div id="comparisonTooltip" class="chart-tooltip hidden"></div>
+        </div>
+      </section>
+
+      <section class="panel panel-wide tilt-card">
+        <div class="panel-header">
+          <div>
+            <p class="section-kicker">Radar</p>
+            <h2>Carteira em destaque</h2>
+          </div>
+          <p class="section-note">Cards com saldos e proximos PMTs para leitura rapida.</p>
+        </div>
+        <div id="comparisonCards" class="comparison-cards"></div>
+      </section>
+
+      <section class="panel panel-wide tilt-card">
+        <div class="panel-header">
+          <div>
+            <p class="section-kicker">Agenda</p>
+            <h2>Proximos eventos</h2>
+          </div>
+          <p class="section-note">Linha do tempo operacional da selecao atual.</p>
+        </div>
+        <div id="timeline" class="timeline"></div>
+      </section>
+
+      <section class="panel panel-wide">
+        <div class="panel-header">
+          <div>
+            <p class="section-kicker">Detalhamento</p>
+            <h2>Tabela financeira</h2>
+          </div>
+          <p class="section-note">Na AXS 02, o modo total exibe uma linha de CRI e uma de Debenture identificadas.</p>
+        </div>
+        <div class="table-shell">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Data</th>
+                <th>Tipo</th>
+                <th>Evento</th>
+                <th>PU cheio</th>
+                <th>PU vazio</th>
+                <th>PU juros</th>
+                <th>PU amort.</th>
+                <th>Juros R$</th>
+                <th>Amort. R$</th>
+                <th>PMT total</th>
+                <th>Principal</th>
+                <th>Saldo</th>
+              </tr>
+            </thead>
+            <tbody id="eventsTableBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel panel-wide source-panel">
+        <div class="panel-header">
+          <div>
+            <p class="section-kicker">Rastreabilidade</p>
+            <h2>Fontes e observacoes</h2>
+          </div>
+        </div>
+        <div id="sourceInfo" class="source-info"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="./dashboard.js"></script>
+</body>
+</html>

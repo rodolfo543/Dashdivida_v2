@@ -1,0 +1,40 @@
+name: Atualizar Dashboard Estatico
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 7 * * 1"
+      timezone: "America/Sao_Paulo"
+    - cron: "0 7 13 * *"
+      timezone: "America/Sao_Paulo"
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Gerar dashboard estatico
+        run: python servidor_dashboard.py build
+
+      - name: Commitar atualizacao
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs data dashhtml.html dashboard.css dashboard.js index.html
+          if git diff --cached --quiet; then
+            echo "Sem alteracoes para publicar."
+            exit 0
+          fi
+          git commit -m "Atualiza dashboard estatico"
+          git push
