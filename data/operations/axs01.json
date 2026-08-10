@@ -4449,8 +4449,8 @@
     "next_amortization_amount": 2114417.39,
     "last_event_date": "17/08/2026",
     "final_balance": 0.0,
-    "duration_years": 9.695348018540859,
-    "wal_years": 11.291081190021872
+    "duration_years": 9.676183063030937,
+    "wal_years": 11.271916234511947
   },
   "timeline": [
     {
@@ -9062,8 +9062,8 @@
         "next_amortization_amount": 2114417.39,
         "last_event_date": "17/08/2026",
         "final_balance": 0.0,
-        "duration_years": 9.695348018540859,
-        "wal_years": 11.291081190021872
+        "duration_years": 9.676183063030937,
+        "wal_years": 11.271916234511947
       },
       "timeline": [
         {
@@ -12925,8 +12925,8 @@
         "next_amortization_amount": 712926.07,
         "last_event_date": "17/08/2026",
         "final_balance": 0.0,
-        "duration_years": 9.824537807480969,
-        "wal_years": 11.555961899385014
+        "duration_years": 9.805372851971041,
+        "wal_years": 11.536796943875089
       },
       "timeline": [
         {
@@ -16986,8 +16986,8 @@
         "next_amortization_amount": 1401491.32,
         "last_event_date": "17/08/2026",
         "final_balance": 0.0,
-        "duration_years": 9.175816957479883,
-        "wal_years": 10.222295299450883
+        "duration_years": 9.156652001969961,
+        "wal_years": 10.203130343940957
       },
       "timeline": [
         {
@@ -17448,8 +17448,8 @@
       "label": "AXS 10",
       "full_name": "AXS ENERGIA 10 - Emissao 1 / Serie UNICA",
       "current_balance": 73323064.79,
-      "next_payment_amount": 1987311.54,
-      "total_interest": 49417645.60999999,
+      "next_payment_amount": 1983413.39,
+      "total_interest": 48910506.43000001,
       "total_amortization": 76590551.96,
       "event_count": 144,
       "indexer": "CDI + 6,50%",
@@ -17480,6 +17480,6 @@
       "badge": "DEB"
     }
   ],
-  "generated_at": "03/08/2026 12:47:52",
-  "generated_at_iso": "2026-08-03T12:47:52"
+  "generated_at": "10/08/2026 10:56:24",
+  "generated_at_iso": "2026-08-10T10:56:24"
 }

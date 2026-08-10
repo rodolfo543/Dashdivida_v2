@@ -16929,8 +16929,8 @@
     "next_amortization_amount": 214577.71,
     "last_event_date": "15/07/2026",
     "final_balance": 0.0,
-    "duration_years": 5.437226410284812,
-    "wal_years": 6.20444985618568
+    "duration_years": 5.4180614547748895,
+    "wal_years": 6.185284900675753
   },
   "timeline": [
     {
@@ -38048,8 +38048,8 @@
         "next_amortization_amount": 405208.39,
         "last_event_date": "15/07/2026",
         "final_balance": 0.0,
-        "duration_years": 5.437226410236849,
-        "wal_years": 6.20444985660903
+        "duration_years": 5.418061454726925,
+        "wal_years": 6.185284901099104
       },
       "timeline": [
         {
@@ -55127,8 +55127,8 @@
         "next_amortization_amount": 214577.71,
         "last_event_date": "15/07/2026",
         "final_balance": 0.0,
-        "duration_years": 5.437226410284812,
-        "wal_years": 6.20444985618568
+        "duration_years": 5.4180614547748895,
+        "wal_years": 6.185284900675753
       },
       "timeline": [
         {
@@ -72368,8 +72368,8 @@
         "next_amortization_amount": 190630.68,
         "last_event_date": "15/07/2026",
         "final_balance": 0.0,
-        "duration_years": 5.437226410182861,
-        "wal_years": 6.2044498570855575
+        "duration_years": 5.418061454672935,
+        "wal_years": 6.185284901575634
       },
       "timeline": [
         {
@@ -72794,8 +72794,8 @@
       "label": "AXS 10",
       "full_name": "AXS ENERGIA 10 - Emissao 1 / Serie UNICA",
       "current_balance": 73323064.79,
-      "next_payment_amount": 1987311.54,
-      "total_interest": 49417645.60999999,
+      "next_payment_amount": 1983413.39,
+      "total_interest": 48910506.43000001,
       "total_amortization": 76590551.96,
       "event_count": 144,
       "indexer": "CDI + 6,50%",
@@ -72826,6 +72826,6 @@
       "badge": "DEB"
     }
   ],
-  "generated_at": "03/08/2026 12:47:52",
-  "generated_at_iso": "2026-08-03T12:47:52"
+  "generated_at": "10/08/2026 10:56:24",
+  "generated_at_iso": "2026-08-10T10:56:24"
 }
