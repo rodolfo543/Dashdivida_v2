@@ -3139,8 +3139,8 @@
     "next_amortization_amount": 0.0,
     "last_event_date": "15/06/2026",
     "final_balance": 0.0,
-    "duration_years": 8.818687169701258,
-    "wal_years": 10.541363907121587
+    "duration_years": 8.80773576655273,
+    "wal_years": 10.530412503973055
   },
   "timeline": [
     {
@@ -3437,7 +3437,7 @@
       "id": "axs03",
       "label": "AXS 03",
       "full_name": "AXS III - Emissao 78 / Serie UNICA",
-      "current_balance": 155216255.06,
+      "current_balance": 154946972.78,
       "next_payment_amount": 2005403.31,
       "total_interest": 176083560.0699999,
       "total_amortization": 220391975.0199999,
@@ -3449,7 +3449,7 @@
       "id": "axs04",
       "label": "AXS 04",
       "full_name": "AXS 4 - Emissao 139 / Serie UNICA",
-      "current_balance": 149800620.1,
+      "current_balance": 149295417.57,
       "next_payment_amount": 2180748.73,
       "total_interest": 161687842.3199999,
       "total_amortization": 212426955.45999992,
@@ -3497,7 +3497,7 @@
       "id": "axs02",
       "label": "AXS 02",
       "full_name": "AXS 02 - Consolidado CRI + Debenture",
-      "current_balance": 92408907.05,
+      "current_balance": 92113198.15,
       "next_payment_amount": 1289921.16,
       "total_interest": 101738231.59999995,
       "total_amortization": 135310770.91000006,
@@ -3521,7 +3521,7 @@
       "id": "axs10",
       "label": "AXS 10",
       "full_name": "AXS ENERGIA 10 - Emissao 1 / Serie UNICA",
-      "current_balance": 73323064.79,
+      "current_balance": 72654578.41,
       "next_payment_amount": 1983413.39,
       "total_interest": 48910506.43000001,
       "total_amortization": 76590551.96,
@@ -3533,7 +3533,7 @@
       "id": "axs07",
       "label": "AXS 07",
       "full_name": "AXS VII - Emissao 1 / Serie UNICA",
-      "current_balance": 73115537.65,
+      "current_balance": 72409839.94,
       "next_payment_amount": 1426716.21,
       "total_interest": 47269763.12,
       "total_amortization": 95667293.75999998,
@@ -3554,6 +3554,6 @@
       "badge": "DEB"
     }
   ],
-  "generated_at": "13/08/2026 10:59:49",
-  "generated_at_iso": "2026-08-13T10:59:49"
+  "generated_at": "17/08/2026 10:20:40",
+  "generated_at_iso": "2026-08-17T10:20:40"
 }
