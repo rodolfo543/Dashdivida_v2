@@ -16929,8 +16929,8 @@
     "next_amortization_amount": 214718.31,
     "last_event_date": "17/08/2026",
     "final_balance": 0.0,
-    "duration_years": 5.360532795901467,
-    "wal_years": 6.111688399187774
+    "duration_years": 5.357794945114334,
+    "wal_years": 6.1089505484006414
   },
   "timeline": [
     {
@@ -38048,8 +38048,8 @@
         "next_amortization_amount": 404011.77,
         "last_event_date": "17/08/2026",
         "final_balance": 0.0,
-        "duration_years": 5.3606504417046015,
-        "wal_years": 6.11175939326916
+        "duration_years": 5.35791259091747,
+        "wal_years": 6.10902154248203
       },
       "timeline": [
         {
@@ -55127,8 +55127,8 @@
         "next_amortization_amount": 214718.31,
         "last_event_date": "17/08/2026",
         "final_balance": 0.0,
-        "duration_years": 5.360532795901467,
-        "wal_years": 6.111688399187774
+        "duration_years": 5.357794945114334,
+        "wal_years": 6.1089505484006414
       },
       "timeline": [
         {
@@ -72368,8 +72368,8 @@
         "next_amortization_amount": 189293.46,
         "last_event_date": "17/08/2026",
         "final_balance": 0.0,
-        "duration_years": 5.3607828723646875,
-        "wal_years": 6.111839307606297
+        "duration_years": 5.358045021577555,
+        "wal_years": 6.109101456819165
       },
       "timeline": [
         {
@@ -72686,9 +72686,9 @@
       "label": "AXS Goiás",
       "full_name": "AXS Goias - Emissao 1 / Serie UNICA",
       "current_balance": 253708430.26,
-      "next_payment_amount": 13117033.43,
-      "total_interest": 332126809.69000006,
-      "total_amortization": 407703249.27000004,
+      "next_payment_amount": 13114308.03,
+      "total_interest": 332202395.83,
+      "total_amortization": 407781393.03,
       "event_count": 35,
       "indexer": "IPCA + 10,40%",
       "badge": "DEB"
@@ -72698,9 +72698,9 @@
       "label": "AXS 11",
       "full_name": "AXS 11 - Emissao 1 / Serie UNICA",
       "current_balance": 181719598.88,
-      "next_payment_amount": 14609949.42,
-      "total_interest": 244332905.17000008,
-      "total_amortization": 321224064.2900001,
+      "next_payment_amount": 14618949.62,
+      "total_interest": 244390101.70999992,
+      "total_amortization": 321283825.54,
       "event_count": 32,
       "indexer": "IPCA + 10,74%",
       "badge": "DEB"
@@ -72711,8 +72711,8 @@
       "full_name": "AXS III - Emissao 78 / Serie UNICA",
       "current_balance": 154946972.78,
       "next_payment_amount": 1807472.07,
-      "total_interest": 175968918.38,
-      "total_amortization": 220165372.83,
+      "total_interest": 175997760.72,
+      "total_amortization": 220205508.76999998,
       "event_count": 168,
       "indexer": "IPCA + 11%",
       "badge": "CRI"
@@ -72723,8 +72723,8 @@
       "full_name": "AXS 4 - Emissao 139 / Serie UNICA",
       "current_balance": 149295417.57,
       "next_payment_amount": 1987906.69,
-      "total_interest": 161576700.65999994,
-      "total_amortization": 212210327.36000013,
+      "total_interest": 161604285.97000003,
+      "total_amortization": 212249818.07,
       "event_count": 168,
       "indexer": "IPCA + 11%",
       "badge": "CRI"
@@ -72734,9 +72734,9 @@
       "label": "AXS 08",
       "full_name": "AXS 08 - Emissao 1 / Serie UNICA",
       "current_balance": 128255198.72,
-      "next_payment_amount": 7628720.45,
-      "total_interest": 175774306.99999997,
-      "total_amortization": 204973791.16000003,
+      "next_payment_amount": 7627135.37,
+      "total_interest": 175810667.72000003,
+      "total_amortization": 205012628.01000002,
       "event_count": 34,
       "indexer": "IPCA + 11%",
       "badge": "DEB"
@@ -72746,9 +72746,9 @@
       "label": "AXS 01",
       "full_name": "AXS 01 - Refi / 2 Series",
       "current_balance": 115895157.4,
-      "next_payment_amount": 8546942.09,
-      "total_interest": 155491160.72999996,
-      "total_amortization": 212231981.45999998,
+      "next_payment_amount": 8552534.5,
+      "total_interest": 155523569.7,
+      "total_amortization": 212269919.60000002,
       "event_count": 32,
       "indexer": "IPCA + 9,35% / 10,97%",
       "badge": "DEB"
@@ -72759,8 +72759,8 @@
       "full_name": "AXS ENERGIA 09 - Emissao 1 / Serie UNICA",
       "current_balance": 109213702.7,
       "next_payment_amount": 9320053.91,
-      "total_interest": 111190715.76999998,
-      "total_amortization": 154817109.39000002,
+      "total_interest": 111215130.05999997,
+      "total_amortization": 154847078.03,
       "event_count": 28,
       "indexer": "IPCA + 10,98%",
       "badge": "DEB"
@@ -72782,9 +72782,9 @@
       "label": "AXS 05",
       "full_name": "AXS 05 - 2a Emissao / 2 Series",
       "current_balance": 91879049.33,
-      "next_payment_amount": 8077130.880000001,
-      "total_interest": 110925669.14,
-      "total_amortization": 161556746.25000003,
+      "next_payment_amount": 8082416.1,
+      "total_interest": 110949324.87000002,
+      "total_amortization": 161586890.70999998,
       "event_count": 32,
       "indexer": "IPCA + 9,47% / 10,97%",
       "badge": "DEB"
@@ -72807,8 +72807,8 @@
       "full_name": "AXS VII - Emissao 1 / Serie UNICA",
       "current_balance": 72409839.94,
       "next_payment_amount": 1328707.27,
-      "total_interest": 47243344.64999998,
-      "total_amortization": 95581933.66000001,
+      "total_interest": 47251870.87999999,
+      "total_amortization": 95602293.98999998,
       "event_count": 119,
       "indexer": "IPCA + 10,50%",
       "badge": "DEB"
@@ -72818,14 +72818,14 @@
       "label": "AXS 06",
       "full_name": "AXS 06 - Emissao 2 / Serie UNICA",
       "current_balance": 32191278.53,
-      "next_payment_amount": 1930010.32,
-      "total_interest": 50254236.71,
-      "total_amortization": 61414139.57,
+      "next_payment_amount": 1931561.39,
+      "total_interest": 50264585.85999999,
+      "total_amortization": 61424628.02,
       "event_count": 34,
       "indexer": "IPCA + 10,38%",
       "badge": "DEB"
     }
   ],
-  "generated_at": "13/09/2026 14:04:26",
-  "generated_at_iso": "2026-09-13T14:04:26"
+  "generated_at": "14/09/2026 16:02:13",
+  "generated_at_iso": "2026-09-14T16:02:13"
 }
